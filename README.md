@@ -78,3 +78,51 @@ You can extend this project by:
 ## License
 
 [MIT License](LICENSE)
+
+## 自动激活 Poetry 环境
+
+### 方法一：使用Poetry的自动激活功能
+
+在项目目录中运行以下命令，将在`.env`文件中添加`POETRY_VIRTUALENVS_IN_PROJECT=true`设置，使得Poetry在进入项目目录时自动激活环境：
+
+```bash
+# 在当前项目中设置
+poetry config virtualenvs.in-project true --local
+
+# 全局设置（所有项目）
+poetry config virtualenvs.in-project true
+```
+
+### 方法二：使用Direnv（推荐）
+
+1. 安装 direnv:
+```bash
+# Mac
+brew install direnv
+
+# Linux
+sudo apt install direnv
+```
+
+2. 添加到shell配置：
+```bash
+# 对于zsh（在~/.zshrc中添加）
+eval "$(direnv hook zsh)"
+
+# 对于bash（在~/.bashrc中添加）
+eval "$(direnv hook bash)"
+```
+
+3. 在项目根目录创建`.envrc`文件：
+```bash
+echo 'source $(poetry env info -p)/bin/activate' > .envrc
+direnv allow
+```
+
+### 方法三：使用脚本
+
+在项目根目录有一个`activate_env.sh`脚本，可以直接运行激活环境：
+
+```bash
+./activate_env.sh
+```

@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "finagent"
+version = "0.1.0"
+description = "Financial Document Analysis Tool"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+packages = [{include = "finagent"}]
+
+[tool.poetry.dependencies]
+python = ">=3.8.1,<4.0"
+langchain = "^0.1.0"
+langchain-openai = "^0.0.5"
+openai = "^1.3.0"
+python-dotenv = "^1.0.0"
+pypdf = "^4.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api" 

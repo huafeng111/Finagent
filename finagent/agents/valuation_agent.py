@@ -2,20 +2,20 @@
 # valuation_agent.py - Agent for company stock valuation
 
 import json
-from langchain.agents import Tool, AgentExecutor, create_react_agent
+import os # Import os module
+from langchain.tools import Tool
 from langchain_openai import ChatOpenAI
-from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.schema import Document
-from langchain.chains.summarize import load_summarize_chain
+from langchain_core.prompts import PromptTemplate
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_core.documents import Document
+from langchain.chains import load_summarize_chain
 
 class ValuationAgent:
     def __init__(self, openai_api_key=None):
         """Initialize the valuation agent with the required tools and chains."""
         # Initialize LLM
         self.llm = ChatOpenAI(
-            model_name="gpt-4", 
+            model_name="gpt-4o", 
             temperature=0,
             openai_api_key=openai_api_key
         )
@@ -26,62 +26,35 @@ class ValuationAgent:
             chunk_overlap=200
         )
         
-        # Create the valuation prompt
-        valuation_template = """
-        You are a professional financial analyst specializing in company valuation.
-        Analyze the following financial text and extract key information about the company's valuation.
-        
-        Extract the following information if available:
-        1. Company name and ticker symbol
-        2. Current market capitalization
-        3. P/E ratio
-        4. Revenue and growth rates
-        5. Earnings per share (EPS)
-        6. Debt-to-equity ratio
-        7. Free cash flow
-        8. Dividend yield (if applicable)
-        9. Estimated fair value based on DCF (Discounted Cash Flow) or comparable companies
-        10. Key risk factors affecting valuation
-        
-        Financial text:
-        {text}
-        
-        Provide your analysis in JSON format with the following structure:
-        {{
-            "company_name": "Name of the company",
-            "ticker": "Stock ticker",
-            "market_cap": "Current market cap",
-            "pe_ratio": "Current P/E ratio",
-            "revenue": {{
-                "current": "Current revenue",
-                "growth_rate": "YoY growth rate"
-            }},
-            "eps": "Current EPS",
-            "debt_to_equity": "Current debt-to-equity ratio",
-            "free_cash_flow": "Current FCF",
-            "dividend_yield": "Current dividend yield",
-            "estimated_fair_value": "Your estimated fair value",
-            "valuation_methodology": "Brief description of method used",
-            "risk_factors": ["List of key risk factors"]
-        }}
-        
-        If certain information is not available in the text, use "N/A" for that field.
-        """
+        # --- Load the valuation prompt from file ---
+        # Construct the path to the prompt file relative to this script's location
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        prompt_path = os.path.join(current_dir, '..', 'prompts', 'price_eval.prompt')
+
+        try:
+            with open(prompt_path, 'r', encoding='utf-8') as f:
+                valuation_template = f.read()
+        except FileNotFoundError:
+             # Fallback or error handling if the prompt file is missing
+             print(f"Error: Prompt file not found at {prompt_path}")
+             # You might want to raise an exception or use a default prompt here
+             raise 
+        except Exception as e:
+            print(f"Error reading prompt file {prompt_path}: {e}")
+            raise
+        # --- End loading prompt --- 
         
         self.valuation_prompt = PromptTemplate(
             input_variables=["text"],
             template=valuation_template
         )
         
-        self.valuation_chain = LLMChain(
-            llm=self.llm,
-            prompt=self.valuation_prompt
-        )
+        self.valuation_chain = self.valuation_prompt | self.llm
         
         # Create summarization chain for large documents
         self.summary_chain = load_summarize_chain(
             llm=self.llm,
-            chain_type="map_reduce",
+            chain_type="stuff",
             verbose=False
         )
     
@@ -103,13 +76,14 @@ class ValuationAgent:
                 all_splits.extend([Document(page_content=s) for s in splits])
             
             # Summarize the content
-            summary = self.summary_chain.run(all_splits)
-            text_to_analyze = summary
+            summary_result = self.summary_chain.invoke({"input_documents": all_splits})
+            text_to_analyze = summary_result.get("output_text", "")
         else:
             text_to_analyze = documents[0].page_content
         
         # Run the valuation chain
-        result = self.valuation_chain.run(text_to_analyze)
+        result_object = self.valuation_chain.invoke({"text": text_to_analyze})
+        result = result_object.content
         
         # Ensure the result is valid JSON
         try:

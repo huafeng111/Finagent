@@ -1,0 +1,1587 @@
+ CONTENTS
+2 CORPORATE INFORMATION
+3 FINANCIAL SUMMARY
+4 CHAIRMAN’S STATEMENT
+7 MANAGEMENT DISCUSSION AND ANALYSIS
+26 DIRECTORS’ REPORT
+80 CORPORATE GOVERNANCE REPORT
+114 INDEPENDENT AUDITOR’S REPORT
+123 CONSOLIDATED INCOME STATEMENT
+124 CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+125 CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+128 CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+132 CONSOLIDATED STATEMENT OF CASH FLOWS
+134 NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+265 DEFINITION
+2 Tencent Holdings Limited
+Corporate Information
+DIRECTORS
+Executive Director
+Ma Huateng (Chairman)
+Non-Executive Directors
+Jacobus Petrus (Koos) Bekker
+Charles St Leger Searle
+Independent Non-Executive Directors
+Li Dong Sheng
+Ian Charles Stone
+Yang Siu Shun
+Ke Yang
+Zhang Xiulan
+AUDIT COMMITTEE
+Yang Siu Shun (Chairman)
+Ian Charles Stone
+Charles St Leger Searle
+CORPORATE GOVERNANCE
+COMMITTEE
+Charles St Leger Searle (Chairman)
+Ian Charles Stone
+Yang Siu Shun
+Ke Yang
+Zhang Xiulan
+INVESTMENT COMMITTEE
+Lau Chi Ping Martin (Chairman)
+Ma Huateng
+Charles St Leger Searle
+NOMINATION COMMITTEE
+Ma Huateng (Chairman)
+Li Dong Sheng
+Ian Charles Stone
+Yang Siu Shun
+Charles St Leger Searle
+REMUNERATION COMMITTEE
+Ian Charles Stone (Chairman)
+Li Dong Sheng
+Jacobus Petrus (Koos) Bekker
+AUDITOR
+PricewaterhouseCoopers
+ Certified Public Accountants
+ and Registered Public Interest
+ Entity Auditor
+PRINCIPAL BANKERS
+Bank of China Limited
+The Hongkong and Shanghai Banking
+ Corporation Limited
+REGISTERED OFFICE
+Cricket Square
+Hutchins Drive, P.O. Box 2681
+Grand Cayman KY1-1111
+Cayman Islands
+TENCENT GROUP HEAD OFFICE
+Tencent Binhai Towers
+No. 33 Haitian 2nd Road
+Nanshan District
+Shenzhen, 518054
+The PRC
+PRINCIPAL PLACE OF BUSINESS
+IN HONG KONG
+29/F., Three Pacific Place
+No. 1 Queen’s Road East
+Wanchai
+Hong Kong
+CAYMAN ISLANDS PRINCIPAL
+SHARE REGISTRAR AND
+TRANSFER OFFICE
+Suntera (Cayman) Limited
+Suite 3204, Unit 2A
+Block 3, Building D
+P.O. Box 1586
+Gardenia Court
+Camana Bay
+Grand Cayman, KY1-1100
+Cayman Islands
+HONG KONG BRANCH SHARE
+REGISTRAR AND TRANSFER
+OFFICE
+Computershare Hong Kong Investor
+ Services Limited
+Shops 1712-1716, 17th Floor
+Hopewell Centre
+183 Queen’s Road East
+Wan Chai, Hong Kong
+COMPANY WEBSITE
+www.tencent.com
+STOCK CODES
+HKD counter 700
+RMB counter 80700
+Annual Report 2024 3
+Financial Summary
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+Year ended 31 December
+2020 2021 2022 2023 2024
+RMB’Million RMB’Million RMB’Million RMB’Million RMB’Million
+Revenues 482,064 560,118 554,552 609,015 660,257
+Gross profit 221,532 245,944 238,746 293,109 349,246
+Operating profit 126,197 124,656 110,827 160,074 208,099
+Profit before income tax 180,022 248,062 210,225 161,324 241,485
+Profit for the year 160,125 227,810 188,709 118,048 196,467
+Profit attributable to equity holders of the Company 159,847 224,822 188,243 115,216 194,073
+Total comprehensive income for the year 281,173 200,390 59,564 107,182 284,342
+Total comprehensive income attributable to
+ equity holders of the Company 277,834 200,323 60,699 102,130 279,009
+Non-IFRS operating profit 143,241 152,729 143,203 191,886 237,811
+Non-IFRS profit attributable to
+ equity holders of the Company 122,742 123,788 115,649 157,688 222,703
+CONDENSED CONSOLIDATED STATEMENTS OF FINANCIAL POSITION
+As at 31 December
+2020 2021 2022 2023 2024
+RMB’Million RMB’Million RMB’Million RMB’Million RMB’Million
+Assets
+Non-current assets 1,015,778 1,127,552 1,012,142 1,058,800 1,284,815
+Current assets 317,647 484,812 565,989 518,446 496,180
+Total assets 1,333,425 1,612,364 1,578,131 1,577,246 1,780,995
+Equity and liabilities
+Equity attributable to equity holders of the Company 703,984 806,299 721,391 808,591 973,548
+Non-controlling interests 74,059 70,394 61,469 65,090 80,348
+Total equity 778,043 876,693 782,860 873,681 1,053,896
+Non-current liabilities 286,303 332,573 361,067 351,408 330,190
+Current liabilities 269,079 403,098 434,204 352,157 396,909
+Total liabilities 555,382 735,671 795,271 703,565 727,099
+Total equity and liabilities 1,333,425 1,612,364 1,578,131 1,577,246 1,780,995
+4 Tencent Holdings Limited
+Chairman’s Statement
+I am pleased to present our annual report for the year ended 31 December 2024 to the shareholders.
+RESULTS
+The Group’s audited profit attributable to equity holders of the Company for the year ended 31 December 2024 was
+RMB194,073 million, an increase of 68% compared with the results for the previous year. Basic and diluted EPS for the year
+ended 31 December 2024 were RMB20.938 and RMB20.486, respectively.
+The Group’s non-IFRS profit attributable to equity holders of the Company for the year ended 31 December 2024 was
+RMB222,703 million, an increase of 41% compared with the results for the previous year. Non-IFRS basic and diluted EPS for
+the year ended 31 December 2024 were RMB24.027 and RMB23.505, respectively.
+OPERATING INFORMATION
+As at
+31 December
+ 2024
+As at
+31 December
+ 2023
+Yearon-year
+change
+As at
+30 September
+ 2024
+Quarteron-quarter
+change
+(in millions, unless specified)
+Combined MAU of Weixin and WeChat 1,385 1,343 3% 1,382 0.2%
+Mobile device MAU of QQ 524 554 -5% 562 -7%
+Fee-based VAS paying subscriptions# 262 244 7% 265 -1%
+# Adjusted to report the average daily number of subscriptions during the quarter, since the first quarter of 2024
+BUSINESS REVIEW AND OUTLOOK
+Benefitting from AI-powered enhancements to our advertising platform, higher engagement in Video Accounts, and growth
+in our evergreen games, we achieved double digit revenue growth while sustaining continued operating leverage in the fourth
+quarter of 2024. Starting a few months ago, we have reorganised our AI teams to sharpen focus on both fast product innovation
+and deep model research, increased our AI-related capital expenditures, and increased our R&D and marketing efforts for
+our AI-native products. We believe these stepped-up investments will generate ongoing returns via uplifting productivity in
+our advertising business and longevity of our games, as well as longer term value from accelerated consumer usage of our AI
+applications and enterprise adoption of our AI services.
+Annual Report 2024 5
+Chairman’s Statement
+Below are some highlights from our key products and services for 2024:
+‧ Weixin strengthened its user engagement and transaction capabilities through the launch of Mini Shops, our platform for
+indexed and standardised merchandise.
+‧ Video Accounts’ total user time spent grew rapidly year-on-year, benefitting from enhanced recommendation algorithms
+and more local content.
+‧ Query volume rapidly increased in Weixin Search, benefitting from integrating AI capabilities which enhance the
+relevance and quality of search results.
+‧ Tencent Video maintained its leading position in China’s long-form video market with 113 million1
+ video subscribers.
+Tencent Music extended its industry leadership in China’s music streaming market with 121 million2
+ music subscribers.
+‧ We expanded our evergreen games portfolio3
+ from 12 games in 2023 to 14 in 2024, while nurturing new games with
+evergreen potential.
+‧ We upgraded our advertising technology platform by optimising advertisement ranking systems and adding LLM
+capabilities, driving higher click-through rates and advertiser spending.
+‧ For FinTech services, we upgraded our risk controls and optimised payment funding costs.
+‧ We rapidly iterated our HunYuan Foundation Model, deployed AI for internal use cases, and prepared for breakout
+growth in consumer adoption of AI, via the Yuanbao and Weixin applications.
+We delivered substantial shareholder returns in 2024 through payment of a cash dividend of HKD3.40 per share (equivalent
+to approximately HKD32 billion) and through share repurchase of approximately HKD112 billion. For 2025, we propose to
+increase our annual dividend by 32%, to HKD4.50 per share4
+ (equivalent to approximately HKD41 billion), and we intend to
+repurchase at least HKD80 billion worth of our shares.
+1
+ The average daily number of subscriptions for the fourth quarter of 2024
+2
+ The average number of subscriptions as of the last day of each month during the fourth quarter of 2024
+3
+ Evergreen games portfolio includes domestic and international games. Evergreen games refer to games surpassing average quarterly
+DAU of 5 million for mobile or 2 million for PC, and generating over RMB4 billion annual gross receipts
+4
+ For the year ended 31 December 2024; subject to shareholders’ approval at the 2025 AGM
+6 Tencent Holdings Limited
+Chairman’s Statement
+Below are some highlights of our sustainability initiatives for 2024:
+‧ Our digital philanthropy initiative connected with over 280 million users, over 2,200 charitable organisations, and over
+20,000 enterprises, via Tencent Charity Platform, and upgraded Giving for Good campaign.
+‧ Through our XPLORER PRIZE and New Cornerstone Investigator Program, we have provided funding to over 360
+outstanding scientists, contributing to societal and economic development.
+‧ We leveraged AI, game technology and Mini Programs to create an immersive digital experience of the Beijing Central
+Axis, assisting this historic landmark’s inclusion into the UNESCO World Heritage List.
+‧ We enhanced our data centres’ energy efficiency, and increased their adoption of renewable energy, progressing towards
+our goal of carbon neutrality.
+DIVIDEND
+The Board has recommended the payment of a final dividend of HKD4.50 per share (2023: HKD3.40 per share) for the year
+ended 31 December 2024, subject to the approval of the shareholders at the 2025 AGM. Such proposed dividend is expected
+to be payable on 30 May 2025 to the shareholders whose names appear on the register of members of the Company on
+21 May 2025.
+APPRECIATION
+On behalf of the Board, I would like to express our heartfelt gratitude to our dedicated staff and management team for their
+relentless commitment and invaluable expertise, which are essential for the Company’s continued success. I would also like
+to extend our sincere appreciation to our shareholders and stakeholders for their unwavering support and confidence in the
+Company.
+We are committed to adhering to the core principle of “Value for Users, Tech for Good” and will continue to strive to create
+exceptional value for our shareholders and society at large. Furthermore, we are dedicated to fostering innovation, addressing
+the needs of the community and contributing to a sustainable future for all.
+Ma Huateng
+Chairman
+Hong Kong, 19 March 2025
+Annual Report 2024 7
+Management Discussion and Analysis
+YEAR ENDED 31 DECEMBER 2024 COMPARED TO YEAR ENDED 31 DECEMBER 2023
+The following table sets forth the comparative figures for the years ended 31 December 2024 and 2023:
+Year ended 31 December
+2024 2023
+(RMB in millions)
+Revenues 660,257 609,015
+Cost of revenues (311,011) (315,906)
+Gross profit 349,246 293,109
+Selling and marketing expenses (36,388) (34,211)
+General and administrative expenses (112,761) (103,525)
+Other gains/(losses), net 8,002 4,701
+Operating profit 208,099 160,074
+Net gains/(losses) from investments and others 4,187 (6,090)
+Interest income 16,004 13,808
+Finance costs (11,981) (12,268)
+Share of profit/(loss) of associates and joint ventures, net 25,176 5,800
+Profit before income tax 241,485 161,324
+Income tax expense (45,018) (43,276)
+Profit for the year 196,467 118,048
+Attributable to:
+ Equity holders of the Company 194,073 115,216
+ Non-controlling interests 2,394 2,832
+196,467 118,048
+Non-IFRS operating profit 237,811 191,886
+Non-IFRS profit attributable to equity holders of the Company 222,703 157,688
+8 Tencent Holdings Limited
+Management Discussion and Analysis
+Revenues. Revenues increased by 8% year-on-year to RMB660.3 billion for the year ended 31 December 2024. The following
+table sets forth revenues of the Group and its segments for the years ended 31 December 2024 and 2023:
+Year ended 31 December
+2024 2023
+Yearon-year
+change 2024 2023
+Revenues % of total revenues
+(RMB in millions, unless specified)
+VAS 319,168 298,375 7% 49% 49%
+Marketing Services 121,374 101,482 20% 18% 17%
+FinTech and Business Services 211,956 203,763 4% 32% 33%
+Others 7,759 5,395 44% 1% 1%
+The Group 660,257 609,015 8% 100% 100%
+– Revenues from VAS increased by 7% year-on-year to RMB319.2 billion for the year ended 31 December 2024.
+International Games revenues were RMB58.0 billion, reflecting 9% growth in both reported and constant currency
+terms, driven by strong performances from PUBG MOBILE and Supercell’s games. Domestic Games revenues rose by
+10% to RMB139.7 billion, driven by revenue growth from VALORANT, Naruto Mobile, Fight of the Golden Spatula and
+League of Legends: Wild Rift, alongside new contributions from DnF Mobile and Delta Force. Social Networks revenues
+were RMB121.5 billion, up 2% year-on-year, driven by higher revenues from music and long-form video subscription
+services, increased app-based game virtual item sales and Mini Games platform service fees, partially offset by a decline
+in music-related and games-related live streaming revenues.
+– Revenues from Marketing Services increased by 20% year-on-year to RMB121.4 billion for the year ended
+31 December 2024. This increase was primarily due to robust advertiser demand for Video Accounts, Mini Programs
+and Weixin Search inventories, and ongoing enhancement of our AI-powered advertising infrastructure. Advertising
+spending rose across most major categories, with notable growth from games, eCommerce, education and Internet
+services categories.
+– Revenues from FinTech and Business Services grew by 4% year-on-year to RMB212.0 billion for the year ended
+31 December 2024. The increase in FinTech Services revenues primarily reflected growth in wealth management
+services and commercial payment services. Higher Business Services revenues were driven by growth in WeCom
+revenue and eCommerce technology service fees.
+Annual Report 2024 9
+Management Discussion and Analysis
+Cost of revenues. Cost of revenues were RMB311.1 billion for the year ended 31 December 2024, representing a 2% year-on-year
+decline, due to lower live streaming revenue sharing costs, long-form video content costs and cloud project deployment costs.
+Gross profit. Gross profit rose by 19% year-on-year to RMB349.2 billion for the year ended 31 December 2024, primarily
+driven by robust growth in high-margin revenue streams from Domestic Games, Video Accounts, Weixin Search, and the Mini
+Games platform. Improved profitability in our cloud services and long-form video businesses also contributed to the overall
+increase in gross profit. Gross margin increased to 53%, compared to 48% in the prior year. The following table sets forth
+gross profit and gross margin of the Group and its segments for the years ended 31 December 2024 and 2023:
+Year ended 31 December
+2024 2023
+Yearon-year
+change 2024 2023
+Gross profit/(loss) Gross margin
+(RMB in millions, unless specified)
+VAS 181,657 161,919 12% 57% 54%
+Marketing Services 67,232 51,344 31% 55% 51%
+FinTech and Business Services 99,701 80,636 24% 47% 40%
+Others 656 (790) NA 8% (15%)
+The Group 349,246 293,109 19% 53% 48%
+– Gross profit for VAS increased by 12% year-on-year to RMB181.7 billion, driven by growth in high-margin revenues from
+Domestic Games and Mini Games platform service fees, as well as long-form video subscription revenue growth and
+content cost optimisation. Gross margin improved to 57%, up from 54% in the prior year.
+– Gross profit for Marketing Services rose by 31% year-on-year to RMB67.2 billion, primarily due to growth in high-margin
+revenues from Video Accounts and Weixin Search marketing services. Gross margin expanded to 55%, compared to
+51% in the previous year.
+– Gross profit for FinTech and Business Services increased by 24% year-on-year to RMB99.7 billion, driven by revenue
+growth from wealth management services, WeCom, and eCommerce technology service fees, as well as enhanced cost
+efficiency in our cloud services. Gross margin rose to 47% from 40% in the previous year.
+10 Tencent Holdings Limited
+Management Discussion and Analysis
+Selling and marketing expenses. Selling and marketing expenses grew by 6% year-on-year to RMB36.4 billion for the year
+ended 31 December 2024, reflecting higher promotional and advertising efforts to support new content releases. As a
+percentage of revenues, selling and marketing expenses remained largely stable at 6%, consistent with the previous year.
+General and administrative expenses. General and administrative expenses increased by 9% year-on-year to RMB112.7 billion
+for the year ended 31 December 2024. This increase was primarily driven by higher R&D expenses, including those related
+to our AI initiatives, alongside higher staff costs. As a percentage of revenues, general and administrative expenses remained
+broadly stable at 17%, in line with the prior year.
+Interest income. Interest income increased by 16% year-on-year to RMB16.0 billion for the year ended 31 December 2024
+due to growth in cash reserves.
+Finance costs . Finance costs decreased by 2% year-on-year to RMB12.0 billion for the year ended 31 December 2024,
+primarily due to recognition of foreign exchange gains this year versus losses in the previous year, partially offset by higher
+interest expenses.
+Share of profit/(loss) of associates and joint ventures, net. We recorded share of profits of associates and joint ventures of
+RMB25.2 billion for the year ended 31 December 2024, up from share of profits of RMB5.8 billion for the previous year. Non-IFRS
+share of profits of associates and joint ventures rose to RMB31.6 billion, compared to RMB13.0 billion for the previous year.
+The increase in non-IFRS share of profits of associates and joint ventures reflected stronger financial performances across
+several associates, driven by company-specific factors, including business growth, new content releases and operational
+efficiency improvements.
+Income tax expense. Income tax expense increased by 4% year-on-year to RMB45.0 billion for the year ended 31 December
+2024, primarily due to our operating profit growth, partially offset by the high base effect from deferred tax adjustments at an
+overseas subsidiary in the previous year. Excluding the deferred tax adjustments in the prior year, income tax expense would
+have increased by 15% year-on-year.
+Profit attributable to equity holders of the Company. Profit attributable to equity holders of the Company increased by 68%
+year-on-year to RMB194.1 billion for the year ended 31 December 2024. Non-IFRS profit attributable to equity holders of the
+Company increased by 41% to RMB222.7 billion for the year ended 31 December 2024.
+Annual Report 2024 11
+Management Discussion and Analysis
+FOURTH QUARTER OF 2024 COMPARED TO FOURTH QUARTER OF 2023
+The following table sets forth the comparative figures for the fourth quarter of 2024 and the fourth quarter of 2023:
+Unaudited
+Three months ended
+31 December
+2024
+31 December
+2023
+(RMB in millions)
+Revenues 172,446 155,196
+Cost of revenues (81,793) (77,632)
+Gross profit 90,653 77,564
+Selling and marketing expenses (10,285) (10,971)
+General and administrative expenses (31,403) (27,175)
+Other gains/(losses), net 2,513 1,983
+Operating profit 51,478 41,401
+Net gains/(losses) from investments and others 1,119 (6,730)
+Interest income 3,910 3,917
+Finance costs (2,512) (3,543)
+Share of profit/(loss) of associates and joint ventures, net 9,253 2,463
+Profit before income tax 63,248 37,508
+Income tax expense (11,781) (9,658)
+Profit for the period 51,467 27,850
+Attributable to:
+ Equity holders of the Company 51,324 27,025
+ Non-controlling interests 143 825
+51,467 27,850
+Non-IFRS operating profit 59,475 49,135
+Non-IFRS profit attributable to equity holders of the Company 55,312 42,681
+12 Tencent Holdings Limited
+Management Discussion and Analysis
+Revenues. Revenues increased by 11% year-on-year to RMB172.4 billion for the fourth quarter of 2024. The following table
+sets forth revenues of the Group and its segments for the fourth quarter of 2024 and the fourth quarter of 2023:
+Unaudited
+Three months ended
+31 December
+2024
+31 December
+ 2023
+Yearon-year
+change
+31 December
+ 2024
+31 December
+ 2023
+Revenues % of total revenues
+(RMB in millions, unless specified)
+VAS 79,022 69,079 14% 46% 45%
+Marketing Services 35,004 29,794 17% 20% 19%
+FinTech and Business Services 56,125 54,379 3% 33% 35%
+Others 2,295 1,944 18% 1% 1%
+The Group 172,446 155,196 11% 100% 100%
+– Revenues from VAS increased by 14% year-on-year to RMB79.0 billion for the fourth quarter of 2024. International
+Games revenues were RMB16.0 billion, reflecting a 15% year-on-year increase (16% increase on a constant currency
+basis), driven by robust performances from Brawl Stars and PUBG MOBILE, alongside the early access release of
+Path of Exile 2. Domestic Games revenues increased by 23% year-on-year to RMB33.2 billion, benefitting from: a low
+base in the prior year’s period; growth in revenue from major games such as Honour of Kings, Peacekeeper Elite and
+VALORANT; and contributions from recently released games DnF Mobile and Delta Force. Social Networks revenues rose
+by 6% year-on-year to RMB29.8 billion, primarily due to growth in app-based game virtual item sales, music subscription
+revenues and Mini Games platform service fees.
+– Revenues from Marketing Services were RMB35.0 billion for the fourth quarter of 2024, up 17% year-on-year, driven by
+robust advertiser demand for Video Accounts, Mini Programs and Weixin Search inventories. Advertising spending rose
+across most major categories during the quarter.
+– Revenues from FinTech and Business Services increased by 3% year-on-year to RMB56.1 billion for the fourth quarter
+of 2024. FinTech Services revenue growth reflected higher revenues from wealth management services and consumer
+loan services, while commercial payment services revenue was broadly stable year-on-year. Higher Business Services
+revenues were driven by growth in eCommerce technology service fees and WeCom revenue.
+Annual Report 2024 13
+Management Discussion and Analysis
+Cost of revenues. Cost of revenues for the fourth quarter of 2024 rose by 5% year-on-year to RMB81.7 billion, mainly due to
+higher content costs driven by growth of games revenues, along with increased bandwidth and server costs.
+Gross profit. Gross profit for the fourth quarter of 2024 grew by 17% year-on-year to RMB90.7 billion, primarily supported by
+growth in high-margin revenue streams from Domestic Games, Video Accounts and Weixin Search, alongside enhanced cost
+efficiency in our cloud services. Gross margin improved to 53% from 50% in the same period last year. The following table sets
+forth gross profit and gross margin of the Group and its segments for the fourth quarter of 2024 and the fourth quarter of 2023.
+Unaudited
+Three months ended
+31 December
+2024
+31 December
+2023
+Yearon-year
+change
+31 December
+ 2024
+31 December
+ 2023
+Gross profit/(loss) Gross margin
+(RMB in millions, unless specified)
+VAS 44,157 37,090 19% 56% 54%
+Marketing Services 20,197 16,922 19% 58% 57%
+FinTech and Business Services 26,460 23,860 11% 47% 44%
+Others (161) (308) NA (7%) (16%)
+The Group 90,653 77,564 17% 53% 50%
+– Gross profit for VAS grew by 19% year-on-year to RMB44.2 billion, primarily driven by growth in high-margin Domestic
+Games revenues. Gross margin rose to 56%, up from 54% in the same period last year.
+– Gross profit for Marketing Services was RMB20.2 billion, up 19% year-on-year, supported by growth in high-margin
+Video Accounts and Weixin Search revenues. Gross margin was 58%, compared to 57% in the same period last year.
+– Gross profit for FinTech and Business Services rose by 11% year-on-year to RMB26.5 billion, mainly due to revenue growth
+from wealth management services, consumer loan services and WeCom, alongside improved cost efficiency in our cloud
+services. Gross margin increased to 47% from 44% in the same period last year.
+14 Tencent Holdings Limited
+Management Discussion and Analysis
+Selling and marketing expenses. Selling and marketing expenses decreased by 6% year-on-year to RMB10.3 billion in the fourth
+quarter of 2024, reflecting a high base in the prior-year period. As a percentage of revenues, selling and marketing expenses
+declined to 6%, compared to 7% in the same period last year.
+General and administrative expenses. General and administrative expenses increased by 16% year-on-year to RMB31.4 billion
+for the fourth quarter of 2024, primarily driven by increased R&D expenses, including staff costs and depreciation expenses
+related to our AI initiatives.
+Interest income. Interest income was RMB3.9 billion for the fourth quarter of 2024, broadly stable year-on-year.
+Finance costs. Finance costs decreased by 29% year-on-year to RMB2.5 billion for the fourth quarter of 2024, mainly due to
+recognition of foreign exchange gains this quarter, compared to losses recorded in the same period last year.
+Share of profit/(loss) of associates and joint ventures, net. We recorded share of profits of associates and joint ventures of
+RMB9.3 billion for the fourth quarter of 2024, an increase from share of profits of RMB2.4 billion in the same period last year.
+Non-IFRS share of profits of associates and joint ventures rose to RMB7.7 billion, compared to share of profits of RMB4.5
+billion in the same period last year. The increase in non-IFRS share of profits of associates and joint ventures was due to
+associate company-specific factors, such as business growth, new content releases and enhanced operating efficiencies.
+Income tax expense. Income tax expense rose by 22% year-on-year to RMB11.8 billion for the fourth quarter of 2024, driven
+primarily by growth in operating profit.
+Profit attributable to equity holders of the Company. Profit attributable to equity holders of the Company increased by 90% to
+RMB51.3 billion for the fourth quarter of 2024 on a year-on-year basis. Non-IFRS profit attributable to equity holders of the
+Company increased by 30% year-on-year to RMB55.3 billion for the fourth quarter of 2024.
+Annual Report 2024 15
+Management Discussion and Analysis
+FOURTH QUARTER OF 2024 COMPARED TO THIRD QUARTER OF 2024
+The following table sets forth the comparative figures for the fourth quarter of 2024 and the third quarter of 2024:
+Unaudited
+Three months ended
+31 December
+2024
+30 September
+2024
+(RMB in millions)
+Revenues 172,446 167,193
+Cost of revenues (81,793) (78,365)
+Gross profit 90,653 88,828
+Selling and marketing expenses (10,285) (9,411)
+General and administrative expenses (31,403) (29,058)
+Other gains/(losses), net 2,513 2,974
+Operating profit 51,478 53,333
+Net gains/(losses) from investments and others 1,119 3,066
+Interest income 3,910 3,996
+Finance costs (2,512) (3,531)
+Share of profit/(loss) of associates and joint ventures, net 9,253 6,019
+Profit before income tax 63,248 62,883
+Income tax expense (11,781) (8,900)
+Profit for the period 51,467 53,983
+Attributable to:
+ Equity holders of the Company 51,324 53,230
+ Non-controlling interests 143 753
+51,467 53,983
+Non-IFRS operating profit 59,475 61,274
+Non-IFRS profit attributable to equity holders of the Company 55,312 59,813
+16 Tencent Holdings Limited
+Management Discussion and Analysis
+Revenues. Revenues for the fourth quarter of 2024 increased by 3% quarter-on-quarter to RMB172.4 billion.
+– Revenues from VAS decreased by 4% quarter-on-quarter to RMB79.0 billion. International Games revenues were
+RMB16.0 billion, up 10% quarter-on-quarter, driven by newly launched game Age of Empires Mobile and the early
+access release of Path of Exile 2, as well as Supercell’s games. Domestic Games revenues were RMB33.2 billion,
+representing a 11% decline quarter-on-quarter, primarily due to seasonally lower revenue in the fourth quarter. Social
+Networks revenues decreased by 3% quarter-on-quarter to RMB29.8 billion, reflecting seasonally lower revenue from
+app-based game virtual item sales.
+– Revenues from Marketing Services rose by 17% quarter-on-quarter to RMB35.0 billion, due to increased revenues from
+Video Accounts, Weixin Moments and our mobile ad network, benefitting from ongoing improvements to our AI-powered
+advertising infrastructure, and a seasonal uptick in eCommerce advertising spending.
+– Revenues from FinTech and Business Services increased by 6% quarter-on-quarter to RMB56.1 billion, driven by higher
+revenues from payment activities, consumer loan services, cloud services and eCommerce technology service fees.
+Cost of revenues. Cost of revenues were RMB81.7 billion for the fourth quarter of 2024, up 4% quarter-on-quarter.
+Gross profit. Gross profit was RMB90.7 billion for the fourth quarter of 2024, up 2% quarter-on-quarter. Gross margin was
+53%, broadly stable quarter-on-quarter.
+– Gross profit for VAS was RMB44.2 billion, down 7% quarter-on-quarter primarily due to seasonally lower revenues from
+Domestic Games. Gross margin was 56%, compared to 57% in the third quarter of 2024.
+– Gross profit for Marketing Services increased by 27% quarter-on-quarter to RMB20.2 billion driven by seasonally higher
+eCommerce advertising spending. Gross margin increased to 58% from 53% in the previous quarter.
+– Gross profit for FinTech and Business Services increased by 4% quarter-on-quarter to RMB26.5 billion, mainly due
+to revenue growth from consumer loan services and eCommerce technology service fees. Gross margin was 47%,
+compared to 48% in the third quarter of 2024.
+Selling and marketing expenses. Selling and marketing expenses rose by 9% quarter-on-quarter to RMB10.3 billion for the
+fourth quarter of 2024, reflecting seasonally higher promotional and advertising efforts related to games and eSports events.
+Annual Report 2024 17
+Management Discussion and Analysis
+General and administrative expenses . General and administrative expenses increased by 8% quarter-on-quarter to
+RMB31.4 billion for the fourth quarter of 2024, driven by costs related to AI initiatives, including higher depreciation on servers
+and network equipment.
+Share of profit/(loss) of associates and joint ventures, net. We recorded share of profits of associates and joint ventures of
+RMB9.3 billion for the fourth quarter of 2024, compared to share of profits of RMB6.0 billion for the previous quarter. Non-IFRS
+share of profits of associates and joint ventures was RMB7.7 billion for the fourth quarter of 2024, compared to share of profits
+of RMB8.5 billion for the previous quarter.
+Profit attributable to equity holders of the Company. Profit attributable to equity holders of the Company decreased by 4% to
+RMB51.3 billion for the fourth quarter of 2024 on a quarter-on-quarter basis. Non-IFRS profit attributable to equity holders of
+the Company decreased by 8% to RMB55.3 billion for the fourth quarter of 2024.
+OTHER FINANCIAL INFORMATION
+Unaudited
+Three months ended Year ended
+31 December
+2024
+30 September
+2024
+31 December
+2023
+31 December
+2024
+31 December
+2023
+(RMB in millions, unless specified)
+EBITDA (a) 63,917 64,397 53,983 256,310 214,381
+Adjusted EBITDA (a) 69,579 69,656 59,494 277,012 235,454
+Adjusted EBITDA margin (b) 40% 42% 38% 42% 39%
+Interest and related expenses 3,340 3,145 3,015 12,447 11,885
+Net cash/(debt) (c) 76,798 95,462 54,740 76,798 54,740
+Capital expenditures (d) 36,578 17,094 7,524 76,760 23,893
+Note:
+(a) EBITDA is calculated as operating profit minus other gains/(losses), net, and adding back depreciation of property, plant and
+equipment, investment properties as well as right-of-use assets, and amortisation of intangible assets and land use rights. Adjusted
+EBITDA is calculated as EBITDA plus equity-settled share-based compensation expenses.
+(b) Adjusted EBITDA margin is calculated by dividing Adjusted EBITDA by revenues.
+(c) Net cash/(debt) represents period end balance and is calculated as cash and cash equivalents, plus term deposits and others,
+including highly liquid investment products held for treasury purposes, minus borrowings and notes payable.
+(d) Capital expenditures primarily consist of investments in computer equipment and components, and other property, plant and
+equipment, construction in progress, investment properties, land use rights, as well as certain intangible assets.
+18 Tencent Holdings Limited
+Management Discussion and Analysis
+The following table reconciles our operating profit to our EBITDA and Adjusted EBITDA for the periods presented:
+Unaudited
+Three months ended Year ended
+31 December 30 September 31 December 31 December 31 December
+2024 2024 2023 2024 2023
+(RMB in millions, unless specified)
+Operating profit 51,478 53,333 41,401 208,099 160,074
+Adjustments:
+ Other (gains)/losses, net (2,513) (2,974) (1,983) (8,002) (4,701)
+ Depreciation of property, plant and equipment and
+ investment properties 5,811 5,183 5,117 21,141 19,908
+ Depreciation of right-of-use assets 1,595 1,549 1,544 6,191 6,397
+ Amortisation of intangible assets
+ and land use rights 7,546 7,306 7,904 28,881 32,703
+EBITDA 63,917 64,397 53,983 256,310 214,381
+Equity-settled share-based compensation 5,662 5,259 5,511 20,702 21,073
+Adjusted EBITDA 69,579 69,656 59,494 277,012 235,454
+Annual Report 2024 19
+Management Discussion and Analysis
+NON-IFRS FINANCIAL MEASURES
+To supplement the consolidated results of the Group prepared in accordance with IFRS, certain additional non-IFRS financial
+measures (in terms of operating profit, operating margin, profit for the period, profit attributable to equity holders of the
+Company, basic EPS and diluted EPS) have been presented in this annual report. These unaudited non-IFRS financial
+measures should be considered in addition to, not as a substitute for, measures of the Group’s financial performance prepared
+in accordance with IFRS. In addition, these non-IFRS financial measures may be defined differently from similar terms used by
+other companies.
+The Company’s management believes that the non-IFRS financial measures provide investors with useful supplementary
+information to assess the performance of the Group’s core operations by excluding certain non-cash items and certain impact
+of investment-related transactions. In addition, non-IFRS adjustments include relevant non-IFRS adjustments for the Group’s
+major associates based on available published financials of the relevant major associates, or estimates made by the Company’s
+management based on available information, certain expectations, assumptions and premises.
+The following tables set forth the reconciliations of the Group’s non-IFRS financial measures for the fourth quarter of 2024 and
+2023, the third quarter of 2024, as well as the years ended 31 December 2024 and 2023 to the nearest measures prepared in
+accordance with IFRS:
+Unaudited three months ended 31 December 2024
+Adjustments
+As
+reported
+Share-based
+compensation
+Net (gains)/
+losses from
+investee
+companies
+Amortisation
+of intangible
+assets
+Impairment
+provisions/
+(reversals)
+SSV &
+CPP
+Income tax
+effects Non-IFRS
+(a) (b) (c) (d) (e) (g)
+(RMB in millions, unless specified)
+Operating profit 51,478 6,140 – 1,416 – 441 – 59,475
+Share of profit/(loss) of associates and
+ joint ventures, net 9,253 1,003 (3,799) 1,176 116 – – 7,749
+Profit for the period 51,467 7,143 (6,888) 2,592 1,760 1,109 (706) 56,477
+Profit attributable
+ to equity holders 51,324 7,034 (6,931) 2,396 1,037 1,109 (657) 55,312
+EPS (RMB per share)
+ – basic 5.597 6.032
+ – diluted 5.485 5.909
+Operating margin 30% 34%
+20 Tencent Holdings Limited
+Management Discussion and Analysis
+Unaudited three months ended 30 September 2024
+Adjustments
+As
+reported
+Share-based
+compensation
+Net (gains)/
+losses from
+investee
+companies
+Amortisation
+of intangible
+assets
+Impairment
+provisions/
+(reversals)
+SSV &
+CPP
+Income tax
+effects Non-IFRS
+(a) (b) (c) (d) (e) (g)
+(RMB in millions, unless specified)
+Operating profit 53,333 6,377 – 1,324 – 240 – 61,274
+Share of profit/(loss) of
+ associates and
+ joint ventures, net 6,019 985 60 1,433 12 – – 8,509
+Profit for the period 53,983 7,362 (6,610) 2,757 3,788 304 (653) 60,931
+Profit attributable
+ to equity holders 53,230 7,180 (6,664) 2,591 3,766 304 (594) 59,813
+EPS (RMB per share)
+ – basic 5.762 6.475
+ – diluted 5.644 6.340
+Operating margin 32% 37%
+Unaudited three months ended 31 December 2023
+Adjustments
+As
+reported
+Share-based
+compensation
+Net (gains)/
+losses from
+investee
+companies
+Amortisation
+of intangible
+assets
+Impairment
+provisions/
+(reversals)
+SSV &
+ CPP Others
+Income tax
+effects Non-IFRS
+(a) (b) (c) (d) (e) (f) (g)
+(RMB in millions, unless specified)
+Operating profit 41,401 5,732 – 1,564 – 437 1 – 49,135
+Share of profit/(loss)
+ of associates and
+ joint ventures, net 2,463 914 (416) 1,396 159 – – – 4,516
+Profit for the period 27,850 6,646 (94) 2,960 5,705 1,594 1 (829) 43,833
+Profit attributable
+ to equity holders 27,025 6,512 (55) 2,719 5,650 1,594 1 (765) 42,681
+EPS (RMB per share)
+ – basic 2.873 4.537
+ – diluted 2.807 4.443
+Operating margin 27% 32%
+Annual Report 2024 21
+Management Discussion and Analysis
+Year ended 31 December 2024
+Adjustments
+As
+reported
+Share-based
+compensation
+Net (gains)/
+losses from
+investee
+companies
+Amortisation
+of intangible
+assets
+Impairment
+provisions/
+(reversals)
+SSV &
+ CPP Others
+Income tax
+effects Non-IFRS
+(a) (b) (c) (d) (e) (f) (g)
+(RMB in millions, unless specified)
+Operating profit 208,099 23,424 – 5,294 – 991 3 – 237,811
+Share of profit/(loss)
+ of associates and
+ joint ventures, net 25,176 4,423 (4,289) 5,478 847 – – – 31,635
+Profit for the year 196,467 27,847 (18,646) 10,772 10,636 2,570 3 (2,455) 227,194
+Profit attributable
+ to equity holders 194,073 27,230 (18,770) 9,994 9,836 2,570 3 (2,233) 222,703
+EPS (RMB per share)
+ – basic 20.938 24.027
+ – diluted 20.486 23.505
+Operating margin 32% 36%
+Year ended 31 December 2023
+Adjustments
+As
+reported
+Share-based
+compensation
+Net (gains)/
+losses from
+investee
+companies
+Amortisation
+of intangible
+assets
+Impairment
+provisions/
+(reversals)
+SSV &
+ CPP Others
+Income tax
+effects Non-IFRS
+(a) (b) (c) (d) (e) (f) (g)
+(RMB in millions, unless specified)
+Operating profit 160,074 22,782 – 5,019 – 998 3,013 – 191,886
+Share of profit/(loss)
+ of associates and
+ joint ventures, net 5,800 4,984 (4,925) 5,250 1,933 – (1) – 13,041
+Profit for the year 118,048 27,766 (6,170) 10,269 8,123 3,790 3,012 (3,104) 161,734
+Profit attributable
+ to equity holders 115,216 27,100 (6,024) 9,462 8,004 3,790 3,012 (2,872) 157,688
+EPS (RMB per share)
+ – basic 12.186 16.678
+ – diluted 11.887 16.320
+Operating margin 26% 32%
+22 Tencent Holdings Limited
+Management Discussion and Analysis
+Note:
+(a) Including put options granted to employees of investee companies on their shares and shares to be issued under investee companies’
+share-based incentive plans which can be acquired by the Group, and other incentives
+(b) Including net (gains)/losses on deemed disposals/disposals of investee companies, fair value changes arising from investee companies,
+and other expenses in relation to equity transactions of investee companies
+(c) Amortisation of intangible assets resulting from acquisitions
+(d) Mainly including impairment provisions/(reversals) for associates, joint ventures, goodwill and other intangible assets arising from
+acquisitions
+(e) Mainly including donations and expenses incurred for the Group’s SSV & CPP initiatives
+(f) Primarily non-recurring compliance-related costs and expenses incurred for certain litigation settlements of the Group and/or arising
+from investee companies
+(g) Income tax effects of non-IFRS adjustments
+INVESTMENTS HELD
+As at 31 December 2024, our investment portfolio amounted to approximately RMB817,687 million (31 December 2023:
+RMB701,664 million) as recorded in the consolidated statement of financial position under various categories including:
+– investments in associates and joint ventures which are accounted for by using equity method; and
+– financial assets at fair value through profit or loss and through other comprehensive income.
+Changes in respective items in the consolidated statement of financial position have been disclosed in the notes to the
+consolidated financial statements in this annual report.
+We manage our investment portfolio with a primary objective to strengthen our leading position in core businesses and
+complement our “Connection” strategy in various industries, particularly in social and digital content, retail and FinTech
+sectors. We also invest in healthcare, cloud and AI, transportation and other sectors.
+Annual Report 2024 23
+Management Discussion and Analysis
+The fair value of our shareholdings5
+ in listed investee companies (excluding subsidiaries) amounted to RMB569.8 billion as
+at 31 December 2024 (31 December 2023: RMB550.7 billion), and the carrying book value of our shareholdings in unlisted
+investee companies (excluding subsidiaries) amounted to RMB335.6 billion as at 31 December 2024 (31 December 2023:
+RMB337.3 billion). None of the carrying value of any of our investments (including listed equity investments) constituted 5%
+or more of our total assets as at 31 December 2024.
+There were no material changes in our significant investment portfolio during the year ended 31 December 2024 that need to
+be disclosed under paragraph 32 of Appendix D2 to the Listing Rules.
+Return from our investment portfolio amounted to RMB26,239 million for the year ended 31 December 2024, compared to
+losses of RMB2,686 million for last year. Details of our return from investment portfolio are as follows:
+Performance of Principal Investment 2024 2023
+(Classified by nature) RMB’Million RMB’Million
+Dividend income 715 546
+Net gains on disposals and deemed disposals of investee companies 12,810 4,283
+Net fair value gains/(losses) 2,621 (2,106)
+Impairment provision for investee companies, goodwill and other
+ intangible assets from acquisitions (9,789) (6,190)
+Share of profit/(loss) of associates and joint ventures, net 25,176 5,800
+Amortisation of intangible assets resulting from acquisitions (5,294) (5,019)
+We continue to closely monitor the performance of our investment portfolio, strategically make investments, and explore
+opportunities in monetising some of the existing investments if appropriate opportunities in the market arise.
+5
+ Including those held via special purpose vehicles, on an attributable basis
+24 Tencent Holdings Limited
+Management Discussion and Analysis
+LIQUIDITY AND FINANCIAL RESOURCES
+Our cash and debt positions as at 31 December 2024 and 30 September 2024 were as follows:
+Audited Unaudited
+31 December
+2024
+30 September
+2024
+(RMB in millions)
+Cash and cash equivalents 132,519 145,468
+Term deposits and others 282,894 280,049
+Borrowings (199,406) (194,367)
+Notes payable (139,209) (135,688)
+Net cash 76,798 95,462
+As at 31 December 2024, the Group had net cash of RMB76.8 billion, compared to net cash of RMB95.5 billion as at
+30 September 2024. The sequential decline in net cash was primarily due to cash outflows related to capital expenditures and
+share repurchases, as well as seasonally lower games gross receipts.
+For the fourth quarter of 2024, the Group generated free cash flow of RMB4.5 billion. This was a result of net cash flow
+generated from operating activities of RMB54.0 billion, offset by payments for capital expenditures of RMB39.0 billion to
+support the development of our AI initiatives, as well as payments for media content of RMB8.5 billion and payments for lease
+liabilities of RMB2.0 billion.
+As at 31 December 2024, bank balances and cash of the Group were mainly denominated in RMB and primarily held by
+subsidiaries in the Mainland of China whose functional currencies are RMB. The Group considers that any reasonable
+changes in foreign exchange rates of currencies against major functional currencies would not result in a significant change
+in the Group’s results, as the net carrying amounts of financial assets and liabilities denominated in a currency other than
+the respective subsidiaries’ functional currencies are considered to be not significant. Details are set out in Note 4.1 to the
+consolidated financial statements.
+Annual Report 2024 25
+Management Discussion and Analysis
+As at 31 December 2024, the Group’s total debts comprised borrowings and notes payable. Particulars of the Group’s
+borrowings and notes payable are set out in Note 36 and Note 37 to the consolidated financial statements respectively.
+As at 31 December 2024, the Group held some floating rate borrowings, whose cash flows are hedged by using interest rate
+swaps. The effects of the interest rate swaps on the Group’s financial position and performance are set out in Note 4.1 to the
+consolidated financial statements.
+The Group assesses its creditworthiness based on its business and financial risk profile and monitors its capital by regularly
+reviewing its total debts to Adjusted EBITDA ratio, being the measure of the Group’s ability to pay off all of its debts which in
+turn reflects the Group’s financial health and liquidity position. Details are set out in Note 4.2 to the consolidated financial
+statements.
+The Group had no material contingent liabilities outstanding as at 31 December 2024.
+CHARGES
+As at 31 December 2024, the Group’s partial equity interests in certain investee companies, with a total carrying amount
+of approximately RMB3.5 billion, were charged to certain investment banks as security for obligations under derivative
+transactions entered into with those banks.
+As at 31 December 2024, the Group’s equity interests in an investee company at a carrying amount of approximately
+RMB3.2 billion were charged to a bank syndicate (as part of the collateral) against a loan extended to such investee company.
+As at 31 December 2024, certain subsidiaries of the Group had pledged certain accounts receivable amounting to
+approximately RMB1 million in total to banks as collaterals against their bank borrowings/overdrafts.
+26 Tencent Holdings Limited
+Directors’ Report
+The directors have pleasure in presenting their report together with the audited financial statements for the year ended
+31 December 2024.
+PRINCIPAL ACTIVITIES
+The principal activity of the Company is investment holding. The activities of the material subsidiaries are set out in Note 48 to
+the consolidated financial statements.
+The analysis of the Group’s revenues and contribution to results by business segments and the Group’s revenues by
+geographical area of operations is set out in Note 6 to the consolidated financial statements.
+RESULTS AND APPROPRIATIONS
+The results of the Group for the year are set out in the consolidated statement of comprehensive income on page 124 of this
+annual report.
+The Board has recommended the payment of a final dividend of HKD4.50 per Share for the year ended 31 December 2024.
+The dividend is expected to be payable on 30 May 2025 to the shareholders whose names appear on the register of members
+of the Company on 21 May 2025. The total final dividend proposed for the year is HKD4.50 per Share.
+RESERVES
+The Company may pay dividends out of share premium, retained earnings and any other reserves provided that immediately
+following the payment of such dividends, the Company will be in a position to pay off its debts as they fall due in the ordinary
+course of business.
+As at 31 December 2024, the Company had distributable reserves amounting to RMB125,310 million (2023: RMB86,872
+million).
+Details of the movements in the reserves of the Group and the Company during the year are set out in the consolidated
+statement of changes in equity on pages 128 to 131, Note 33, Note 34 and Note 46 to the consolidated financial statements
+respectively.
+Annual Report 2024 27
+Directors’ Report
+PROPERTY, PLANT AND EQUIPMENT
+Details of the movements in property, plant and equipment of the Group during the year are set out in Note 17 to the
+consolidated financial statements.
+BUSINESS REVIEW AND DIVIDEND
+A fair review of the business of the Group, comprising a discussion and analysis of the Group’s performance during the year,
+an indication of likely future development in the business of the Group and the proposed dividend for the year ended 31
+December 2024 are set out in the “Chairman’s Statement” on pages 4 to 6 of this annual report. Particulars of material events
+affecting the Group that have occurred since the end of the financial year 2024 are set out in Note 47 to the consolidated
+financial statements. An analysis using financial key performance indicators is set out in the “Management Discussion and
+Analysis” on pages 7 to 25 of this annual report. Discussions on the Group’s environmental policies and performance, and
+an account of the Group’s key relationships with its stakeholders are set out in the standalone “Environmental, Social and
+Governance Report 2024”. Details regarding the Group’s compliance with the relevant laws and regulations which have a
+significant impact on the Group are also set out in the standalone “Environmental, Social and Governance Report 2024”
+and the “Corporate Governance Report” on pages 80 to 113 of this annual report. A description of the principal risks and
+uncertainties facing the Group is set out in the “Corporate Governance Report” on pages 80 to 113 of this annual report.
+SHARE CAPITAL
+Details of the movements in the share capital of the Company during the year are set out in Note 33 to the consolidated
+financial statements.
+SUBSIDIARIES
+Particulars of the Company’s material subsidiaries as at 31 December 2024 are set out in Note 48 to the consolidated financial
+statements.
+BORROWINGS AND NOTES PAYABLE
+Particulars of the Group’s borrowings and notes payable are set out in Note 36 and Note 37 to the consolidated financial
+statements respectively.
+28 Tencent Holdings Limited
+Directors’ Report
+DONATION
+The donations made by the Group in the year were RMB2,003 million.
+FINANCIAL SUMMARY
+A summary of the condensed consolidated results and financial positions of the Group is set out on page 3 of this annual
+report.
+PURCHASE, SALE OR REDEMPTION OF THE COMPANY’S LISTED SECURITIES
+During the year ended 31 December 2024, the Company repurchased a total of 307,238,500 Shares on the Stock
+Exchange for an aggregate consideration of approximately HKD112.0 billion before expenses. The repurchased Shares were
+subsequently cancelled. The repurchase was effected for the enhancement of shareholder value in the long term. Details of
+the Shares repurchased are as follows:
+Purchase consideration per Share
+Month of purchase in 2024
+No. of Shares
+purchased
+Highest
+price paid
+Lowest
+price paid
+Aggregate
+consideration
+paid
+HKD HKD HKD
+January 34,110,000 304.40 271.20 9,824,604,509.00
+March 16,930,000 308.60 282.80 5,010,078,160.00
+April 25,860,000 317.40 303.00 8,010,247,840.00
+May 27,550,000 399.80 359.80 10,445,334,088.00
+June 50,280,000 392.00 367.40 19,059,646,307.00
+July 23,700,000 397.00 365.20 9,013,854,402.00
+August 29,320,000 385.40 365.40 11,017,639,867.00
+September 41,877,400 414.20 365.20 15,881,930,806.12
+October 5,051,100 482.20 424.00 2,294,908,497.32
+November 19,200,000 413.40 392.20 7,726,199,532.00
+December 33,360,000 430.60 395.00 13,718,939,918.00
+Total: 307,238,500 112,003,383,926.44
+Save as disclosed above and in Note 33 to the consolidated financial statements, neither the Company nor any of its
+subsidiaries has purchased, sold or redeemed any of the Company’s listed securities during the year ended 31 December
+2024.
+Annual Report 2024 29
+Directors’ Report
+USE OF PROCEEDS FROM FPO OF A NON WHOLLY-OWNED SUBSIDIARY
+The use of proceeds from the FPO of HUYA, our non wholly-owned subsidiary, is set out below:
+HUYA
+In April 2019, HUYA launched its FPO of 18,400,000 American depositary shares (“ADS”) representing 18,400,000 of its
+Class A ordinary shares (including 13,600,000 ADSs sold by HUYA and 4,800,000 ADSs sold by the selling shareholder) at
+a public offering price of USD24.00 per ADS. The net proceeds from the FPO amounted to approximately USD313.8 million
+and are intended to be applied in accordance with the proposed application as set out in the FPO prospectus of HUYA dated
+10 April 2019. Up to 31 December 2024, USD215.3 million of the net proceeds from the FPO were utilised according to the
+intentions previously disclosed by HUYA. Details of the use of proceeds are as follows:
+Intended
+use of
+proceeds
+ from the FPO
+Actual amount
+ utilised
+during the
+year ended
+31 December
+ 2024
+Unutilised
+amount as at
+31 December
+ 2024
+Expected
+timeline for utilising
+the unutilised amount
+USD’Million USD’Million USD’Million
+Investment in content ecosystem and
+ eSports partners to expand content
+ genres and improve content quality
+94.1 to 125.5 27.7 up to 24.2 Before the end of 2027
+Research and development to strengthen
+ technologies and products
+78.5 to 94.1 3.6 up to 71.7 Before the end of 2027
+Overseas expansion opportunities and
+ potential strategic investments and
+ merger and acquisition opportunities
+31.4 to 47.1 4.1 up to 35.9 Before the end of 2027
+Expanding and enhancing product and
+ service offerings
+15.7 to 31.4 2.3 up to 14.9 Before the end of 2027
+General corporate purposes 15.7 to 94.1 34.9 up to 30.3 Before the end of 2027
+As at 31 December 2024, the remaining USD98.5 million of the net proceeds from the FPO was placed with banks. 
+30 Tencent Holdings Limited
+Directors’ Report
+SHARE OPTION SCHEMES
+The Company had one share option scheme which remained valid and effective during the year ended 31 December 2024,
+namely, the 2023 Share Option Scheme. The Board may, at its discretion, grant options to any qualifying participant to
+subscribe for Shares, subject to the terms and conditions stipulated therein. The exercise price must be in compliance with the
+requirements under the Listing Rules. In addition, the option vesting period is determined by the Board provided that it is not
+later than the last day of a 10-year period after the date of grant of options.
+The Post-IPO Option Scheme II expired on 16 May 2017 and no further options can be granted under this scheme, but the
+options granted prior to such expiry continue to be valid and exercisable in accordance with the provisions of the scheme.
+Certain grantees exercised their options granted under this scheme during the year ended 31 December 2024. For further
+details, please refer to Note 35 to the consolidated financial statements. Save for the Post-IPO Option Scheme II and the 2023
+Share Option Scheme, the Company did not have any outstanding share options exercisable under any share option scheme
+during the year ended 31 December 2024.
+As at 31 December 2024, the Company did not have any outstanding share options exercisable under any share option
+scheme other than the 2023 Share Option Scheme.
+The total number of options available for grant under the scheme mandate of the 2023 Share Option Scheme as at 1 January
+2024 and 31 December 2024 were 274,076,375 and 262,443,505, respectively. The total number of options available for
+grant under the Service Providers sub-limit of the 2023 Share Option Scheme as at 1 January 2024 and 31 December 2024
+were both 958,794.
+As at 31 December 2024, no director was holding any outstanding share options under any share option scheme of the
+Company.
+Annual Report 2024 31
+Directors’ Report
+Details of movements of share options granted to Employee Participants of the Group during the year ended 31 December
+2024 are as follows:
+Number of share options
+Date of grant
+As at
+1 January
+2024
+Granted
+during
+the year
+Exercised
+during
+the year
+Lapsed/
+forfeited/
+waived
+during
+the year
+As at
+31 December
+2024
+Exercise
+price Exercise period/ Performance targets
+(Notes 15
+and 16)
+(Note 14) HKD (Note 20)
+24 Mar 2017 690,152 – 690,152 – – 185.65 24 Mar 2018 to 23 Mar 2024 (Note 1)
+24 Mar 2017 16,628,175 – 16,518,800 109,375 – 185.65 24 Mar 2018 to 23 Mar 2024 (Note 3)
+10 Jul 2017 3,031,874 – 3,031,872 2 – 230.87 10 Jul 2018 to 9 Jul 2024 (Note 3)
+10 Jul 2017 3,728 – 3,728 – – 230.89 10 Jul 2019 to 9 Jul 2024 (Note 4)
+4,548 – 4,548 – – 230.87
+23 Nov 2017 31,430 – 31,430 – – 368.46 23 Nov 2018 to 22 Nov 2024 (Note 2)
+16 Jan 2018 97,915 – 97,900 – 15 387.16 16 Jan 2019 to 15 Jan 2025 (Note 2)
+9 Apr 2018 1,861,700 – 378,545 – 1,483,155 358.11 9 Apr 2019 to 8 Apr 2025 (Note 1)
+9 Apr 2018 191,555 – 21,000 – 170,555 358.11 9 Apr 2019 to 8 Apr 2025 (Note 2)
+9 Apr 2018 14,851,089 – 527,429 – 14,323,660 358.11 9 Apr 2019 to 8 Apr 2025 (Note 3)
+4,984,470 – 157,178 22,732 4,804,560 357.86
+24 May 2018 26,390 – 19,355 7,035 – 355.51 24 May 2019 to 23 May 2025 (Note 2)
+22 Jun 2018 13,055 – – – 13,055 348.04 22 Jun 2019 to 21 Jun 2025 (Note 1)
+22 Jun 2018 70,525 – – – 70,525 348.04 22 Jun 2019 to 21 Jun 2025 (Note 2)
+6 Jul 2018 1,980,404 – 223,728 50,330 1,706,346 332.87 6 Jul 2019 to 5 Jul 2025 (Note 3)
+983,323 – 180,481 29,139 773,703 332.47
+32 Tencent Holdings Limited
+Directors’ Report
+Number of share options
+Date of grant
+As at
+1 January
+2024
+Granted
+during
+the year
+Exercised
+during
+the year
+Lapsed/
+forfeited/
+waived
+during
+the year
+As at
+31 December
+2024
+Exercise
+price Exercise period/ Performance targets
+(Notes 15
+and 16)
+(Note 14) HKD (Note 20)
+6 Jul 2018 2,024 – 2,024 – – 332.87 6 Jul 2020 to 5 Jul 2025 (Note 4)
+2,013 – 2,013 – – 332.47
+2,013 – 2,013 – – 331.57
+6 Jul 2018 647 – – – 647 332.87 6 Jul 2021 to 5 Jul 2025 (Note 5)
+4,532 – 1,524 – 3,008 332.47
+4,533 – 1,700 – 2,833 331.57
+4,534 – – – 4,534 331.40
+24 Aug 2018 17,780 – 9,880 – 7,900 302.78 24 Aug 2019 to 23 Aug 2025 (Note 2)
+4 Apr 2019 169,028 – 8,788 – 160,240 321.04 4 Apr 2020 to 3 Apr 2026 (Note 1)
+4 Apr 2019 2,894,848 – – – 2,894,848 321.04 4 Apr 2020 to 3 Apr 2026 (Note 3)
+1,447,425 – – – 1,447,425 320.78
+1,447,427 – – – 1,447,427 320.45
+4 Apr 2019 17,500,000 – – – 17,500,000 320.01 4 Apr 2024 to 3 Apr 2026 (Note 6)
+8 Jul 2019 669,763 – 53,092 6,684 609,987 306.21 8 Jul 2020 to 7 Jul 2026 (Note 3)
+438,259 – 42,805 3,343 392,111 305.79
+445,027 – 45,788 3,343 395,896 304.61
+8 Jul 2019 3,000 – 455 – 2,545 306.21 8 Jul 2021 to 7 Jul 2026 (Note 4)
+3,001 – 455 – 2,546 305.79
+3,001 – 2,688 – 313 304.61
+3,003 – 2,722 – 281 301.46
+23 Aug 2019 9,870 – – – 9,870 288.46 15 Aug 2020 to 22 Aug 2026 (Note 10)
+23 Aug 2019 43,732 – – – 43,732 288.89 15 Aug 2020 to 22 Aug 2026 (Note 7)
+21,866 – – – 21,866 288.46
+46,236 – – – 46,236 287.49
+Annual Report 2024 33
+Directors’ Report
+Number of share options
+Date of grant
+As at
+1 January
+2024
+Granted
+during
+the year
+Exercised
+during
+the year
+Lapsed/
+forfeited/
+waived
+during
+the year
+As at
+31 December
+2024
+Exercise
+price Exercise period/ Performance targets
+(Notes 15
+and 16)
+(Note 14) HKD (Note 20)
+8 Jan 2020 74,340 – – – 74,340 330.89 15 Dec 2020 to 7 Jan 2027 (Note 10)
+37,170 – – – 37,170 329.92
+20 Mar 2020 98,981 – 9,854 – 89,127 305.66 21 Jan 2021 to 19 Mar 2027 (Note 9)
+183,107 – 9,255 – 173,852 305.64
+20 Mar 2020 1,697,498 – – – 1,697,498 305.66 20 Mar 2021 to 19 Mar 2027 (Note 8)
+1,746,159 – 24,330 24,329 1,697,500 305.49
+1,746,159 – 24,330 24,329 1,697,500 304.23
+1,770,490 – 24,330 48,658 1,697,502 303.74
+22 May 2020 16,613 – 16,613 – – 367.16 15 May 2021 to 21 May 2027 (Note 10)
+16,613 – 16,613 – – 366.70
+16,614 – 16,614 – – 365.53
+10 Jul 2020 294,687 – – 22,044 272,643 472.04 5 Jul 2021 to 9 Jul 2027 (Note 8)
+307,590 – – 22,054 285,536 471.92
+307,657 – 210 22,062 285,385 470.14
+298,302 – 789 22,064 275,449 469.87
+10 Jul 2020 876 – – – 876 471.92 5 Jul 2022 to 9 Jul 2027 (Note 8)
+877 – – – 877 470.14
+877 – – 877 – 470.04
+877 – – – 877 469.87
+21 Aug 2020 12,232 – – 12,232 – 444.32 15 Jul 2021 to 20 Aug 2027 (Note 9)
+12,233 – – 12,233 – 444.07
+34 Tencent Holdings Limited
+Directors’ Report
+Number of share options
+Date of grant
+As at
+1 January
+2024
+Granted
+during
+the year
+Exercised
+during
+the year
+Lapsed/
+forfeited/
+waived
+during
+the year
+As at
+31 December
+2024
+Exercise
+price Exercise period/ Performance targets
+(Notes 15
+and 16)
+(Note 14) HKD (Note 20)
+21 Aug 2020 3,511 – – – 3,511 444.32 15 Aug 2021 to 20 Aug 2027 (Note 10)
+3,512 – – – 3,512 444.01
+3,512 – – – 3,512 443.08
+21 Aug 2020 488 – – 249 239 444.32 15 Aug 2021 to 20 Aug 2027 (Note 8)
+489 – – 249 240 444.01
+490 – – 250 240 443.08
+490 – – 250 240 442.82
+23 Nov 2020 46,501 – – – 46,501 511.83 15 Oct 2021 to 22 Nov 2027 (Note 9)
+7,510 – – – 7,510 511.59
+23 Nov 2020 2,951 – – – 2,951 511.83 15 Oct 2021 to 22 Nov 2027 (Note 10)
+2,952 – – – 2,952 511.59
+2,952 – – – 2,952 510.71
+23 Nov 2020 4,206 – – – 4,206 511.83 15 Nov 2021 to 22 Nov 2027 (Note 8)
+4,206 – – – 4,206 511.54
+4,206 – – – 4,206 510.57
+4,207 – – – 4,207 508.53
+23 Dec 2020 7,014 – – 7,014 – 495.23 15 Dec 2021 to 22 Dec 2027 (Note 9)
+7,014 – – 7,014 – 494.94
+23 Dec 2020 35,069 – – 35,069 – 495.23 15 Dec 2021 to 22 Dec 2027 (Note 10)
+35,069 – – 35,069 – 494.94
+35,069 – – 35,069 – 494.22
+30 Mar 2021 518,344 – – 19,313 499,031 533.39 8 Feb 2022 to 29 Mar 2028 (Note 9)
+518,537 – – 19,330 499,207 533.13
+Annual Report 2024 35
+Directors’ Report
+Number of share options
+Date of grant
+As at
+1 January
+2024
+Granted
+during
+the year
+Exercised
+during
+the year
+Lapsed/
+forfeited/
+waived
+during
+the year
+As at
+31 December
+2024
+Exercise
+price Exercise period/ Performance targets
+(Notes 15
+and 16)
+(Note 14) HKD (Note 20)
+30 Mar 2021 25,083 – – – 25,083 533.39 8 Feb 2022 to 29 Mar 2028 (Note 8)
+25,083 – – – 25,083 533.13
+25,084 – – – 25,084 532.35
+25,085 – – – 25,085 531.71
+30 Mar 2021 1,444 – – – 1,444 533.39 15 Feb 2022 to 29 Mar 2028 (Note 10)
+1,444 – – – 1,444 533.13
+1,445 – – – 1,445 532.24
+30 Mar 2021 761 – – – 761 533.39 15 Feb 2022 to 29 Mar 2028 (Note 8)
+762 – – – 762 533.13
+763 – – – 763 532.24
+763 – – – 763 531.69
+30 Mar 2021 966,958 – – – 966,958 533.39 30 Mar 2022 to 29 Mar 2028 (Note 8)
+966,958 – – – 966,958 533.07
+966,961 – – – 966,961 532.29
+1,810,622 – – 843,658 966,964 532.06
+10 Jun 2021 2,173 – – – 2,173 529.18 5 Jul 2021 to 9 Jun 2028 (Note 8)
+2,173 – – – 2,173 529.08
+2,174 – – – 2,174 528.40
+2,174 – – – 2,174 526.97
+10 Jun 2021 3,853 – – 3,853 – 529.15 15 May 2022 to 9 Jun 2028 (Note 10)
+3,854 – – 3,854 – 528.51
+3,854 – – 3,854 – 527.29
+36 Tencent Holdings Limited
+Directors’ Report
+Number of share options
+Date of grant
+As at
+1 January
+2024
+Granted
+during
+the year
+Exercised
+during
+the year
+Lapsed/
+forfeited/
+waived
+during
+the year
+As at
+31 December
+2024
+Exercise
+price Exercise period/ Performance targets
+(Notes 15
+and 16)
+(Note 14) HKD (Note 20)
+14 Jul 2021 1,874,281 – – 78,321 1,795,960 478.17 5 Jul 2022 to 13 Jul 2028 (Note 8)
+1,870,023 – – 78,339 1,791,684 477.46
+1,855,716 – – 78,352 1,777,364 476.52
+1,856,034 – – 92,006 1,764,028 476.09
+16 Nov 2021 57,632 – – – 57,632 437.83 15 Sep 2022 to 15 Nov 2028 (Note 10)
+57,632 – – – 57,632 436.86
+57,633 – – – 57,633 433.54
+16 Nov 2021 5,231 – 1,462 3,769 – 435.86 15 Oct 2022 to 15 Nov 2028 (Note 10)
+5,231 – – 5,231 – 434.78
+5,232 – – 5,232 – 433.25
+24 Mar 2022 8,769 – – 511 8,258 343.96 5 Jul 2022 to 23 Mar 2029 (Note 8)
+6,827 – – 511 6,316 343.22
+8,772 – – 511 8,261 343.21
+6,827 – – 511 6,316 342.87
+24 Mar 2022 786,077 – 83,253 630 702,194 343.84 27 Jan 2023 to 23 Mar 2029 (Note 9)
+787,278 – 79,760 631 706,887 343.20
+24 Mar 2022 3,094 – – – 3,094 343.77 15 Feb 2023 to 23 Mar 2029 (Note 10)
+3,094 – – – 3,094 343.06
+3,094 – – – 3,094 342.81
+24 Mar 2022 4,583 – 376 – 4,207 343.77 15 Feb 2023 to 23 Mar 2029 (Note 8)
+4,595 – – – 4,595 343.06
+4,584 – 290 – 4,294 342.81
+4,595 – – – 4,595 342.50
+Annual Report 2024 37
+Directors’ Report
+Number of share options
+Date of grant
+As at
+1 January
+2024
+Granted
+during
+the year
+Exercised
+during
+the year
+Lapsed/
+forfeited/
+waived
+during
+the year
+As at
+31 December
+2024
+Exercise
+price Exercise period/ Performance targets
+(Notes 15
+and 16)
+(Note 14) HKD (Note 20)
+24 Mar 2022 1,399,354 – – – 1,399,354 343.61 24 Mar 2023 to 23 Mar 2029 (Note 8)
+1,399,355 – – – 1,399,355 342.79
+1,399,356 – – – 1,399,356 342.49
+1,399,357 – – – 1,399,357 341.94
+18 Aug 2022 1,269,908 – 258,773 12,910 998,225 277.91 15 Jul 2023 to 17 Aug 2029 (Note 8)
+1,300,846 – 209,963 31,418 1,059,465 277.42
+1,301,030 – – 87,427 1,213,603 276.81
+1,301,252 – – 87,442 1,213,810 276.01
+23 Mar 2023 588,526 – 22,698 17,864 547,964 375.60 15 Jan 2024 to 22 Mar 2030 (Note 9)
+23 Mar 2023 3,071,143 – – – 3,071,143 375.60 15 Apr 2024 to 22 Mar 2030 (Note 8)
+17 Aug 2023 36,883 – – – 36,883 334.04 15 Jun 2024 to 16 Aug 2030 (Note 9)
+17 Aug 2023 60,862 – – – 60,862 334.04 15 Jun 2024 to 16 Aug 2030 (Note 10)
+17 Aug 2023 22,551 – – – 22,551 334.04 15 Jul 2024 to 16 Aug 2030 (Note 9)
+17 Aug 2023 1,864,852 – 32,074 71,503 1,761,275 334.04 15 Jul 2024 to 16 Aug 2030 (Note 8)
+17 Aug 2023 11,557,350 – – – 11,557,350 334.04 15 Sep 2024 to 16 Aug 2030 (Note 8)
+21 Mar 2024 – 984 – – 984 291.20 15 Jul 2024 to 20 Mar 2031 (Notes 8 and 12)
+21 Mar 2024 – 128,633 – – 128,633 291.20 15 Jan 2026 to 20 Mar 2031 (Notes 11 and 12)
+21 Mar 2024 – 363,656 – 277 363,379 291.20 15 Jan 2025 to 20 Mar 2031 (Notes 9 and 12)
+21 Mar 2024 – 10,186,212 – – 10,186,212 291.20 15 Apr 2025 to 20 Mar 2031 (Notes 8 and 12)
+15 Aug 2024 – 953,385 – 18,785 934,600 373.12 15 Jul 2025 to 14 Aug 2031 (Notes 8 and 13)
+Total: 122,611,076 11,632,870 22,893,680 2,129,141 109,221,125
+38 Tencent Holdings Limited
+Directors’ Report
+Note:
+1. For options granted with exercisable date determined based on the grant date of options, the first 50% of the total options shall be
+vested and become exercisable 1 year after the grant date, and the remaining 50% of the total options will be vested and become
+exercisable in the subsequent year.
+2. For options granted with exercisable date determined based on the grant date of options, the first 33.33% (one-third) of the total options
+shall be vested and become exercisable 1 year after the grant date, and each 33.33% (one-third) of the total options will be vested and
+become exercisable in each subsequent year.
+3. For options granted with exercisable date determined based on the grant date of options, the first 25% of the total options shall be
+vested and become exercisable 1 year after the grant date, and each 25% of the total options will be vested and become exercisable in
+each subsequent year.
+4. For options granted with exercisable date determined based on the grant date of options, the first 25% of the total options shall be
+vested and become exercisable 2 years after the grant date, and each 25% of the total options will be vested and become exercisable in
+each subsequent year.
+5. For options granted with exercisable date determined based on the grant date of options, the first 25% of the total options shall be
+vested and become exercisable 3 years after the grant date, and each 25% of the total options will be vested and become exercisable in
+each subsequent year.
+6. For options granted with exercisable date determined based on the grant date of options, 100% of the total options shall be vested and
+become exercisable 5 years after the grant date.
+7. Subject to the satisfaction of certain conditions, the first 25% of the total options shall be vested and become exercisable on the first
+date of the exercise period, and each 25% of the total options will be vested and become exercisable in each subsequent year.
+8. The first 25% of the total options shall be vested and become exercisable on the first date of the exercise period, and each 25% of the
+total options will be vested and become exercisable in each subsequent year.
+9. The first 50% of the total options shall be vested and become exercisable on the first date of the exercise period, and the remaining
+50% of the total options will be vested and become exercisable in the subsequent year.
+10. The first 33.33% (one-third) of the total options shall be vested and become exercisable on the first date of the exercise period, and
+each 33.33% (one-third) of the total options will be vested and become exercisable in each subsequent year.
+Annual Report 2024 39
+Directors’ Report
+11. 100% of the total options shall be vested and become exercisable on the first date of the exercise period.
+12. The closing price immediately before the date on which the options were granted on 21 March 2024 was HKD288.8 per Share.
+13. The closing price immediately before the date on which the options were granted on 15 August 2024 was HKD373.8 per Share.
+14. The weighted average closing price immediately before the dates on which the options were exercised in 2024 was HKD313.7
+per Share.
+15. The average fair value of the options granted on 21 March 2024 was HKD103.11 per Share at the date of grant.
+16. The average fair value of the options granted on 15 August 2024 was HKD122.63 per Share at the date of grant.
+17. No options granted to the Employee Participants were cancelled during the year ended 31 December 2024.
+18. None of the participants has been granted with options and awards in excess of the 1% individual limit.
+19. Details of the valuation of share options of the Company during the year ended 31 December 2024, including the accounting standard
+and policy adopted for the share option schemes, are set out in Note 35 and Note 2.20 to the consolidated financial statements.
+20. All of the grants made during the year ended 31 December 2024 were made without any performance targets.
+21. Please refer to the Definition section for the description of Employee Participants.
+40 Tencent Holdings Limited
+Directors’ Report
+SUMMARY OF THE SHARE OPTION SCHEMES
+Details Post-IPO Option Scheme II 2023 Share Option Scheme
+1. Purposes To recognise the contribution that certain individuals have made to the Group, to attract
+the best available personnel and to promote the success of the Group’s business
+2. Qualifying participants Any employee (whether full time or
+part time), executive or officer, director
+(including executive, non-executive and
+independent non-executive directors)
+of any member of the Group or any
+invested entity, which is any entity in
+which the Group holds an equity interest,
+and any consultant, adviser or agent of
+any member of the Board, who have
+contributed or will contribute to the growth
+and development of the Group or any
+invested entity
+Any Employee Participant, any director
+or employee of a Related Entity, and any
+Service Provider
+3. Scheme limit The maximum number of Shares in
+respect of which options may be granted
+under the Post-IPO Option Scheme II shall
+be 444,518,270 Shares (after the effect
+of the Share Subdivision), being 5% of the
+relevant class of securities of the Company
+in issue as at 16 May 2007 (Note 1).
+The maximum number of Shares in
+respect of which options may be granted
+under the 2023 Share Option Scheme
+shall be 287,638,307 Shares, being 3%
+of the relevant class of securities of the
+Company in issue as at 17 May 2023.
+Annual Report 2024 41
+Directors’ Report
+Details Post-IPO Option Scheme II 2023 Share Option Scheme
+4. Maximum entitlement
+of each participant
+1% of the issued Shares from time to time
+within any 12-month period up to the date
+of the latest grant
+For any 12-month period up to and
+including the date of grant, the aggregate
+number of Shares issued and to be
+issued in respect of all options or awards
+granted to any Eligible Person (excluding
+any lapsed options or awards) under the
+share scheme(s) of the Company shall not
+exceed 1% of the issued Shares from time
+to time, unless such grant is separately
+approved by the shareholders of the
+Company.
+5. Option period The option period is determined by the
+Board provided that it shall expire not later
+than the last day of the 7-year period after
+the date of grant of the options. There is
+no minimum period for which an option
+must be held before it can be exercised.
+The option period is determined by the
+Board provided that it shall expire not later
+than the last day of the 10-year period
+after the date of grant of the options.
+There is no minimum period for which
+an option must be held before it can be
+exercised.
+6. Vesting period The total vesting period of options granted
+ranges from approximately 24 to 83
+months.
+The total vesting period of options granted
+ranges from approximately 22 to 72
+months.
+42 Tencent Holdings Limited
+Directors’ Report
+Details Post-IPO Option Scheme II 2023 Share Option Scheme
+7. Acceptance of offer Options granted must be accepted within
+28 days of the date of grant, upon
+payment of HKD1 per grant.
+Options granted must be accepted within
+28 days of the date of grant. No cash
+consideration is required.
+8. Exercise price The exercise price must be at least the higher of: (i) the closing price of the securities as
+stated in the Stock Exchange’s daily quotations sheet on the date of grant, which must
+be a business day; (ii) the average closing price of the securities as stated in the Stock
+Exchange’s daily quotations sheets for the five business days immediately preceding the
+date of grant; and (iii) the nominal value of the Share.
+9. Remaining life of
+the scheme
+It expired on 16 May 2017. It shall expire on 17 May 2033, subject to
+early termination in accordance with the
+scheme rules (i.e. the remaining life of
+the scheme as at the date of this annual
+report is approximately 8 years and 2
+months).
+Note:
+1. The Post-IPO Option Scheme II expired on 16 May 2017 and no further options will be granted under the scheme. As at 31 December
+2024, there were no outstanding share options exercisable under the Post-IPO Option Scheme II.
+2. The total number of Shares available for issue under the 2023 Share Option Scheme as at the date of this annual report is 371,242,197,
+representing approximately 4.04% of the issued Shares as at the date of this annual report.
+MOVEMENTS IN THE SHARE OPTIONS
+Details of the movements in the share options of the Company during the year are set out in Note 35 to the consolidated
+financial statements.
+Annual Report 2024 43
+Directors’ Report
+SHARE AWARD SCHEME
+The Company had one share award scheme which remained valid and effective during the year ended 31 December 2024,
+namely, the 2023 Share Award Scheme. As at 31 December 2024, the Company did not have any outstanding share awards
+under any share award scheme other than the 2023 Share Award Scheme.
+2023 Share Award Scheme
+1. Purposes To recognise the contributions and to attract, motivate and retain eligible persons (including
+any director) of the Group
+2. Duration and
+termination
+It shall be valid and effective unless and until being terminated on the earlier of: (i) the
+10th anniversary date of the Adoption Date; and (ii) such date of early termination as
+determined by the Board provided that such termination does not affect any subsisting rights
+of any Selected Participant.
+3. Eligible Persons Any Employee Participant, any director or employee of a Related Entity, and any Service
+Provider
+4. Scheme limit 4.5% of the issued Shares as at the Adoption Date (i.e. 431,457,460 Shares), among which
+the total number of new Shares which may be issued in respect of all awards to be granted
+under the 2023 Share Award Scheme shall be no more than 3.5% of the issued Shares as at
+the Adoption Date (i.e. 335,578,024 Shares) and the number of existing Shares to be used
+for satisfying the awards to be granted under the 2023 Share Award Scheme shall be no more
+than 1% of the issued Shares as at the Adoption Date (i.e. 95,879,435 Shares)
+44 Tencent Holdings Limited
+Directors’ Report
+2023 Share Award Scheme
+5. Maximum entitlement
+of each participant
+For any 12-month period up to and including the date of grant, the aggregate number of
+Shares issued and to be issued in respect of all options or awards granted to any Eligible
+Person (excluding any lapsed options or awards) under the share scheme(s) of the Company
+shall not exceed 1% of the issued Shares from time to time, unless such grant is separately
+approved by the shareholders of the Company.
+6. Operation The Board may, from time to time, at its absolute discretion select any Eligible Person to be a
+Selected Participant and grant to such Selected Participant Awarded Shares.
+The Board may at any time at its discretion, in respect of each Selected Participant, cause to
+be paid the relevant amount from the Company’s resources or any subsidiary’s resources into
+an account for the purchase and/or subscription of the Awarded Shares after the Grant Date.
+7. Restrictions No award may be granted by the Board to any Selected Participant: (i) where the Company
+has information that must be disclosed under Rule 13.09 of the Listing Rules or where the
+Company reasonably believes there is inside information which must be disclosed under
+Part XIVA of the SFO, until (and including) the trading date after such inside information has
+been published on the websites of the Stock Exchange and the Company; (ii) after any inside
+information in relation to the securities of the Company has occurred or has become the
+subject of a decision, until such inside information has been published; (iii) within the period
+commencing 60 days (in the case of yearly results), or 30 days (in the case of results for
+half-year, quarterly or other interim period) immediately preceding the earlier of (1) the date of
+a meeting of the Board (as such date is first notified to the Stock Exchange) for the approval
+of the Company’s results for any year, half-year, quarterly or other interim period (whether
+or not required under the Listing Rules); and (2) the deadline for the Company to publish its
+quarterly, interim or annual results announcement for any such period, and ending on the
+date of such announcement; or (iv) in any other circumstances where dealings by Selected
+Participant (including directors of the Company) are prohibited under the Listing Rules, the
+SFO or any other applicable laws or regulations or where the requisite approval from any
+applicable regulatory authorities has not been granted.
+Annual Report 2024 45
+Directors’ Report
+2023 Share Award Scheme
+8. Vesting and
+clawback/lapse
+The vesting of the Awarded Shares is subject to the Selected Participant remaining at all
+times after the Grant Date and on the date of vesting, an Eligible Person, subject to the rules
+of the 2023 Share Award Scheme. The Awarded Shares can be vested up to a period of
+approximately 84 months, subject to a vesting schedule as determined by the Board on the
+date of grant.
+Where a grantee’s service or employment with the Group has been terminated by the Group
+by reason of, among others, dishonesty or serious misconduct, incompetence or negligence in
+the performance of his/her duties, the grantee having been convicted of any criminal offence
+involving his/her integrity or honesty, the grantee will cease to be an Eligible Person and the
+awards granted will automatically lapse.
+Where a grantee is involved in serious misconduct or malfeasance, or has conducted any
+unlawful acts which prejudiced the interest and reputation of the Group, the awards granted
+shall be clawed back and shall lapse accordingly.
+Subject to the satisfaction of all vesting conditions as prescribed in the 2023 Share Award
+Scheme, the Selected Participants will be entitled to receive the Awarded Shares.
+9. Purchase price Not applicable

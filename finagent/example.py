@@ -4,8 +4,8 @@
 import os
 import json
 from dotenv import load_dotenv
-from agents.valuation_agent import ValuationAgent
-from utils.document_processor import load_document
+from finagent.agents.valuation_agent import ValuationAgent
+from finagent.utils.document_processor import load_document
 
 # Load environment variables (for API keys)
 load_dotenv()
