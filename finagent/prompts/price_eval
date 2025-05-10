@@ -1,191 +1,172 @@
-# 股票估值AI指令
+<valuation_prompt>
+<purpose>
+生成专业级企业估值报告，整合定量财务数据与定性评估因素，自动适配行业专属估值模型，确保输出符合投行分析标准
+</purpose>
 
-## **输入数据**
-1. **公司财报**：
-   - 利润表：净利润、折旧摊销、资本支出  
-   - 资产负债表：总资产、无形资产、负债、股本  
-   - 现金流量表：自由现金流、股利支付  
-2. **行业属性**：  
-   - 一级分类：科技/消费/金融/能源/工业/医疗等  
-   - 二级分类（示例）：科技→SaaS/半导体/硬件；消费→食品饮料/奢侈品  
-3. **市场参数**（可选，若空白则AI自动填充）：  
-   - 无风险利率：___%（默认：当前10年期国债利率）  
-   - 行业EV/EBITDA倍数：___倍（默认：同GICS三级行业3年中位数）  
-   - 可比公司P/E中位数：___倍（可比标准：同二级分类、市值±50%、增速±20%）  
+<input_specification>
+<company_info>
+<name>[[公司名称]]</name>
+<exchange>[[上市交易所]]</exchange>
+<industry>
+  <primary>科技|消费|金融|能源|工业|医疗|新经济</primary>
+  <secondary>
+    <科技>SaaS|半导体|人工智能|硬件</科技>
+    <医疗>生物科技|医疗器械|创新药</医疗>
+    <新经济>Web3|元宇宙|区块链</新经济>
+  </secondary>
+</industry>
+</company_info>
 
-## **估值规则**
-1. **模型选择**：  
-   - 从以下方法选择3种，需符合行业特性（示例）：  
-     - 科技（SaaS）：DCF + 市销率 + 客户生命周期价值（CLV）  
-     - 金融（银行）：DDM + 市净率 + 剩余收益模型  
-     - 能源（石油）：DCF + EV/EBITDA + 资产重置成本法  
-   - **禁用矛盾组合**（如未盈利企业禁用DDM）  
+<financial_data type="audited" years="3">
+<income_statement>
+  <item name="净利润">[[2022]]|[[2023]]|[[2024]]</item>
+  <item name="折旧与摊销">[[2022]]|[[2023]]|[[2024]]</item>
+  <item name="研发费用">[[2022]]|[[2023]]|[[2024]]</item>
+</income_statement>
 
-2. **参数假设**：  
-   - 增长率：  
-     - 永续增长率 ≤ 长期GDP增速+1%（超限需警告）  
-     - 短期增长率参考行业3年CAGR（若用户未提供）  
-   - WACC计算：  
-     - 若无风险利率未提供，默认=当前10年期国债利率  
-     - 股权风险溢价=5.5%（除非用户指定）  
+<balance_sheet>
+  <item name="总资产">[[2022]]|[[2023]]|[[2024]]</item>
+  <item name="商誉">[[2022]]|[[2023]]|[[2024]]</item>
+  <item name="存货">[[2022]]|[[2023]]|[[2024]]</item>
+</balance_sheet>
 
-3. **输出要求**：  
-   - **分模型输出**：  
-     - 价值区间（下限/中枢/上限）  
-     - 关键假设（如DCF的WACC=9%、g=3%）  
-     - 敏感性分析表（WACC±1%、g±1%的影响）  
-   - **综合结果**：  
-     - 加权逻辑：行业特性决定权重（示例：科技股→DCF 60%+市销率 30%+CLV 10%）  
-     - 安全边际买入价=加权下限×（1 - 风险系数），风险系数规则：  
-       - 负债率>60% → 风险系数=40%  
-       - 现金流/净利润<50% → 风险系数=50%  
-       - 其他 → 风险系数=30%  
-   - **风险提示**：  
-     - 财务预警（标红条件：负债率>70%、股息覆盖率<1.2倍）  
-     - 定性风险（如政策变化、技术颠覆可能性）  
+<cash_flow>
+  <item name="自由现金流">[[2022]]|[[2023]]|[[2024]]</item>
+  <item name="资本支出">[[2022]]|[[2023]]|[[2024]]</item>
+</cash_flow>
+</financial_data>
 
----
+<qualitative_assessment>
+<moat>
+  <dimension name="品牌溢价" score="[[1-5]]">[[说明案例]]</dimension>
+  <dimension name="技术壁垒" score="[[1-5]]">[[说明案例]]</dimension>
+</moat>
 
-### **股票估值Prompt完整版（补充输出规范）**  
-**版本**：3.1（结构化输出+详细内容要求）  
+<management>
+  <dimension name="资本配置" score="[[1-5]]">[[触发规则]]</dimension>
+  <dimension name="任期稳定" score="[[1-5]]">[[触发规则]]</dimension>
+</management>
+</qualitative_assessment>
 
----
+<market_parameters>
+<parameter name="无风险利率">
+  <formula>10年期国债利率+国别风险调整</formula>
+  <example>中国=3.5%|美国=4.2%</example>
+</parameter>
 
-### **一、输出内容强制规范**
-#### **1. 分模型估值报告（必含以下要素）**
-**1.1 DCF模型（示例）**  
-```markdown
-### DCF估值结果  
-**公式**：  
-\[ \text{企业价值} = \sum_{t=1}^{5} \frac{\text{FCF}_t}{(1+\text{WACC})^t} + \frac{\text{终值}}{(1+\text{WACC})^5} \]  
+<parameter name="行业EV/EBITDA">
+  <rule>GICS三级行业近3年中位数(排除亏损企业)</rule>
+  <example>半导体设备=18x</example>
+</parameter>
+</market_parameters>
+</input_specification>
 
-**关键参数**：  
-- **预测期FCF**（单位：亿元）：  
-  | 年份   | 2024  | 2025  | 2026  | 2027  | 2028  |  
-  |--------|-------|-------|-------|-------|-------|  
-  | FCF    | 100   | 110   | 121   | 133.1 | 146.4 |  
-  | 增长率 | -     | 10%   | 10%   | 10%   | 10%   |  
+<valuation_rules>
+<model_mapping>
+  <industry type="生物科技">
+    <required>rNPV模型</required>
+    <supplement>实物期权法</supplement>
+    <excluded>DDM/市盈率</excluded>
+  </industry>
 
-- **终值计算**：  
-  \[ \text{终值} = \frac{146.4 \times (1+2.5\%)}{9\% - 2.5\%} = 2,356 \text{亿元} \]  
+  <industry type="人工智能">
+    <required>DCF+市销率+用户价值模型</required>
+    <supplement>梅特卡夫定律</supplement>
+    <excluded>资产法</excluded>
+  </industry>
+</model_mapping>
 
-- **WACC**：9%（CAPM计算：无风险利率4% + β=1.1×5%）  
+<parameter_rules>
+  <rule name="永续增长率">
+    <formula>行业GDP增速上限+护城河系数(0-0.5%)</formula>
+    <example>半导体设备：2%+0.3%=2.3%</example>
+  </rule>
 
-**估值区间**：  
-| 情景   | 折现率 | 永续增长率 | 估值（亿元） |  
-|--------|--------|------------|--------------|  
-| 乐观   | 8%     | 3.5%       | 1,800-2,000  |  
-| 中性   | 9%     | 2.5%       | 1,500-1,700  |  
-| 悲观   | 10%    | 1.5%       | 1,200-1,400  |  
-```
+  <rule name="WACC">
+    <formula>国别基准+行业波动系数(±2%)</formula>
+    <example>中国科技股：8%+2%=10%</example>
+  </rule>
+</parameter_rules>
 
-**1.2 相对估值法（以市盈率为例）**  
-```markdown
-### 市盈率相对估值  
-**可比公司数据**：  
-| 公司   | P/E  | 净利润增速 | 股息率 | 说明                   |  
-|--------|------|------------|--------|------------------------|  
-| 公司A  | 25x  | 8%         | 2.5%   | 行业龙头，业务相似度高 |  
-| 公司B  | 28x  | 10%        | 1.8%   | 成长期，估值溢价       |  
+<margin_calculator>
+  <risk_factor name="专利悬崖">
+    <adjustment>-0.15</adjustment>
+    <condition>主力专利<3年到期</condition>
+  </risk_factor>
 
-**参数设定**：  
-- 目标公司EPS=4.5元（近三年均值）  
-- 合理P/E=26.5x（行业中枢）  
+  <risk_factor name="大宗商品依赖">
+    <adjustment>-0.20</adjustment>
+    <condition>营收占比>50%且价格波动率>30%</condition>
+  </risk_factor>
+</margin_calculator>
+</valuation_rules>
 
-**估值结果**：  
-\[ \text{股价} = 4.5 \times 26.5 = 119.25 \text{元} \]  
-**区间**：110-130元（±10%可比公司波动）  
-```
+<output_validation>
+<health_dashboard>
+  <metric name="负债率">
+    <threshold>70%→🔴|60-70%→🟡|<60%→🟢</threshold>
+  </metric>
 
-**1.3 资产基础法（示例）**  
-```markdown
-### 资产基础估值  
-**调整后净资产计算**：  
-| 项目       | 金额（亿元） | 调整规则              |  
-|------------|--------------|-----------------------|  
-| 总资产     | 500          | -                     |  
-| 无形资产   | -100         | 剔除商誉、专利        |  
-| 存货       | -30          | 按市价50%折算         |  
-| 负债       | -200         | -                     |  
-| **清算价值**| 170          |                       |  
+  <metric name="FCF/净利润">
+    <threshold>50%→🔴|50-80%→🟡|>80%→🟢</threshold>
+  </metric>
+</health_dashboard>
 
-**每股价值**：  
-\[ \text{股价} = \frac{170}{1.5 \text{亿股}} = 113.3 \text{元} \]  
-**区间**：100-125元（考虑资产变现折扣）  
-```
+<anomaly_detection>
+  <rule name="利润现金流背离">
+    <condition>差值>30%持续2年</condition>
+    <action>标红提示+调低可信度</action>
+  </rule>
 
----
+  <rule name="商誉过高">
+    <condition>占比>总资产30%</condition>
+    <action>触发减值测试</action>
+  </rule>
+</anomaly_detection>
+</output_validation>
 
-#### **2. 综合估值结果（必含以下要素）**
-```markdown
-### 综合加权估值  
-**权重分配依据**：  
-- DCF 50%（现金流折现为黄金标准）  
-- 市盈率法 30%（行业可比性较强）  
-- 资产法 20%（重资产属性）  
+<examples>
+<report_example>
+<company>生物科技公司</company>
+<rNPV_valuation weight="60%">
+  <pipeline>
+    <phase stage="II期" success="40%" cashflow="$500M" value="$200M"/>
+    <phase stage="III期" success="65%" cashflow="$1.2B" value="$780M"/>
+  </pipeline>
+  <range>$900M-$1.1B ±15%审批风险</range>
+</rNPV_valuation>
 
-**计算过程**：  
-\[ \text{中枢值} = 1,600 \times 50\% + 119 \times 30\% + 113 \times 20\% = 934.5 \text{元} \]  
+<comparable_transactions weight="30%">
+  <case company="A" multiple="3.5x" value="$1.05B"/>
+  <case company="B" multiple="2.8x" value="$840M"/>
+</comparable_transactions>
 
-**估值区间**：  
-| 模型       | 下限    | 中枢     | 上限    |  
-|------------|---------|----------|---------|  
-| DCF        | 1,200   | 1,600    | 2,000   |  
-| 市盈率法   | 110     | 119      | 130     |  
-| 资产法     | 100     | 113      | 125     |  
-| **加权结果** | 1,008  | 934.5    | 1,245   |  
-```
+<final_output>
+  <weighted_result>
+    <low>$858M</low>
+    <mid>$985M</mid>
+    <high>$1.09B</high>
+  </weighted_result>
+  <buy_price>≤$557.7M(安全边际)</buy_price>
+</final_output>
+</report_example>
+</examples>
 
----
+<execution_rules>
+<update_schedule>
+  <frequency type="monthly">行业EV/EBITDA中位数</frequency>
+  <frequency type="quarterly">无风险利率</frequency>
+</update_schedule>
 
-#### **3. 安全边际与风险提示（必含以下要素）**
-**3.1 安全边际买入价**  
-```markdown
-### 安全边际建议  
-**风险等级评估**：  
-- 负债率=65%（<70%阈值） → 中风险  
-- 现金流/净利润=85%（>50%）→ 低风险  
-- 行业竞争度：中等（3/5分）  
+<conflict_resolution>
+  <rule>模型差异>50%时增加说明段</rule>
+  <rule>检测舞弊则终止估值</rule>
+</conflict_resolution>
+</execution_rules>
 
-**安全系数选择**：  
-- 中风险 → 安全系数=0.7  
-
-**买入价上限**：  
-\[ \text{买入价} \leq 1,008 \times 0.7 = 705.6 \text{元} \]  
-当前股价：850元 → **建议观望**  
-```
-
-**3.2 风险提示**  
-```markdown
-### 风险预警  
-**敏感性分析**：  
-| 参数变动   | 估值影响（中枢值） | 变动幅度 |  
-|------------|--------------------|----------|  
-| WACC+1%    | 1,600 → 1,400     | -12.5%   |  
-| 永续g-1%   | 1,600 → 1,300     | -18.8%   |  
-| 可比P/E-20%| 119 → 95.2         | -20%     |  
-
-**财务健康指标**：  
-| 指标         | 值    | 状态  | 阈值   |  
-|--------------|-------|-------|--------|  
-| 负债率       | 65%   | 🟡     | <70%   |  
-| 现金流/净利润 | 85%   | 🟢     | >50%   |  
-| ROE          | 12%   | 🟢     | >10%   |  
-```
-
----
-
-### **二、附加输出要求**
-1. **公式与计算**：  
-   - 所有数学公式需用LaTeX明确标注，禁止使用文字描述替代（如`\( \text{WACC} = \frac{E}{E+D} \times R_e + \frac{D}{E+D} \times R_d \times (1-T) \)`）。  
-   - 分步骤展示计算过程（如终值、折现因子、每股价值）。  
-
-2. **表格与可视化**：  
-   - 关键数据必须用Markdown表格呈现（如现金流预测、可比公司数据）。  
-   - 风险指标用🔴（高危）、🟡（中危）、🟢（安全）三色标识。  
-
-3. **语言规范**：  
-   - 数值单位统一（如亿元/元/百分比），禁止混用。  
-   - 行业术语标准化（如“EV/EBITDA”而非“企业价值倍数”）。  
-
-
+<output_format>
+要求使用Markdown表格与LaTeX公式混合排版，关键数值用**加粗**显示，
+风险提示用颜色icon(🔴/🟡/🟢)，数学公式包裹在$$中
+请输出中文
+</output_format>
+</valuation_prompt>
