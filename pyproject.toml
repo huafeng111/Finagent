@@ -1,0 +1,22 @@
+[project]
+name = "finagent"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "teddylabdog",email = "huafeng.mai@finalroundai.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11,<4.0"
+dependencies = [
+    "python-dotenv",
+    "langchain>=0.0.335,<0.1.0",
+    "langchain-openai>=0.0.1,<0.1.0",
+    "openai>=1.0.0",
+    "pypdf",
+    "tiktoken"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
